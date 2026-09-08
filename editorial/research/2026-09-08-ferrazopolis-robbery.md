@@ -16,3 +16,9 @@ User corrected this task: find crime footage, not general viral/animal clips. Ca
 🚨 ALERTA: Morador joga o celular no chão e corre durante assalto de motociclista em Ferrazópolis, São Bernardo do Campo (SP), em 04/09, segundo a TV São Bernardo.
 
 Fonte: TV São Bernardo, publicado em 08/09/2026
+
+## Prepared preview
+
+User requested a post preview. Downloaded original public reel for editing, inspected a 2-second interval contact sheet across its 66 seconds. Selected source 00:04–00:29 to retain pedestrian approach, motorcycle arrival and departure without the later repeated multi-camera playback. Preview: clips/2026-09-04-ferrazopolis-preview.mp4, 25 seconds, silent, 720×1320, H.264, bottom branding appended outside full source frame. No red circle. Rendered frame reviewed. Image is soft because original records a CCTV monitor. Caption remains the proposed text above. Not approved, published or scheduled.
+
+User rejected this candidate as too weak; superseded by 2026-09-08-quebra-vidro.md.

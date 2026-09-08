@@ -19,14 +19,14 @@ The core daily selection is crime footage, scams and relevant news/politics. Fol
 ```text
 🚨 ALERTA: {description}
 
-Fonte: {source}, publicado em {DD/MM/YYYY}
+Fonte: {source}, {DD/MM/YYYY}
 
 {native video attachment}
 ```
 
 - The opening description is the headline and caption together. No second title is needed.
 - State the visible incident, verified neighborhood/city and incident date when relevant. Attribute outcomes or allegations that cannot be established from the footage.
-- The source line belongs below the description. Publication date is not incident date; specify the incident date in the description if different.
+- The source line belongs below the description: `Fonte: {source}, {DD/MM/YYYY}`, without “publicado em”. Do not repeat the source or its publication date in the opening. Publication date is not incident date; specify the verified incident date in the description when relevant.
 - Use actual CCTV, dashcam or eyewitness footage. A report can supply context, but isolate the incident sequence rather than attach presenter-led coverage.
 - Native attachment is mandatory; an article link is not a substitute.
 - Add a red circle only when the action is hard to spot. Do not add one by default.
@@ -99,7 +99,7 @@ ATUALIZAÇÃO: {new verified development}
 
 {brief identification of earlier case}. {what is now confirmed, with attribution}.
 
-Fonte: {source}, publicado em {DD/MM/YYYY}
+Fonte: {source}, {DD/MM/YYYY}
 Foto: {credit, when applicable}
 
 {relevant image attachment}
