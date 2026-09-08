@@ -29,6 +29,8 @@ Morning research starts at 06:30 Brasília, aiming for a batch around 07:00. The
 | [editorial/research/pending-leads.md](editorial/research/pending-leads.md) | Unverified leads awaiting footage/context checks. |
 | [editorial/published/2026-09.md](editorial/published/2026-09.md) | September published captions, sources, post IDs and historical outcomes. |
 | [editorial/batches/README.md](editorial/batches/README.md) | How to record each day’s approval batch. |
+| [assets/brand/video/bottom-bar-960.png](assets/brand/video/bottom-bar-960.png) | Approved reusable bottom-only video branding. |
+| [clips/2026-09-04-pechincha-robbery-branded.mp4](clips/2026-09-04-pechincha-robbery-branded.mp4) | Bottom-bar example; saved, not published. |
 | [assets/brand/README.md](assets/brand/README.md) | Brand selection and approval status. |
 | [assets/brand/x-banner.png](assets/brand/x-banner.png) | Approved X banner. |
 | [assets/brand/pb-avatar.png](assets/brand/pb-avatar.png) | Latest PB avatar candidate; final approval not recorded. |
