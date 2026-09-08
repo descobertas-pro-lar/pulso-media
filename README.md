@@ -29,8 +29,8 @@ Morning research starts at 06:30 Brasília, aiming for a batch around 07:00. The
 | [editorial/research/pending-leads.md](editorial/research/pending-leads.md) | Unverified leads awaiting footage/context checks. |
 | [editorial/published/2026-09.md](editorial/published/2026-09.md) | September published captions, sources, post IDs and historical outcomes. |
 | [editorial/batches/2026-09-08.md](editorial/batches/2026-09-08.md) | September 8 approval batch, sources, readiness checks and reply shortfall. |
-| [editorial/batches/media/2026-09-08/fake-delivery-charge.png](editorial/batches/media/2026-09-08/fake-delivery-charge.png) | Original scam-warning card awaiting approval. |
-| [editorial/batches/media/2026-09-08/tcu-digital-fraud.png](editorial/batches/media/2026-09-08/tcu-digital-fraud.png) | Original historical TCU audit card awaiting approval. |
+| [editorial/batches/media/2026-09-08/fake-delivery-charge.png](editorial/batches/media/2026-09-08/fake-delivery-charge.png) | Rejected text-card proposal; historical only, do not attach. |
+| [editorial/batches/media/2026-09-08/tcu-digital-fraud.png](editorial/batches/media/2026-09-08/tcu-digital-fraud.png) | Rejected text-card proposal; historical only, do not attach. |
 | [clips/2026-09-06-belem-delivery-disguise-branded.mp4](clips/2026-09-06-belem-delivery-disguise-branded.mp4) | Inspected Belém CCTV with bottom branding, awaiting approval. |
 | [editorial/batches/README.md](editorial/batches/README.md) | How to record each day’s approval batch. |
 | [assets/brand/video/bottom-bar-960.png](assets/brand/video/bottom-bar-960.png) | Approved reusable bottom-only video branding. |

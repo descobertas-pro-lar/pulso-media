@@ -60,3 +60,7 @@ For an explicitly requested editorial time, use customScheduled and an ISO dueAt
 ## Native video attachment
 
 Use `assets: [{video: {url: directMp4Url}}]`. HLS (.m3u8) failed in the test; a direct MP4 worked. Text-only minimum requirements do not prohibit media. Verify the video asset before scheduling and sent status after publishing. See the [publication log](../editorial/published/2026-09.md) for post IDs and historical results.
+
+## Text-only posts
+
+User clarified September 8: text-based posts use native X text, without banners, pictures or rendered text cards. Omit `assets` for these posts. Approval previews show the actual text; the media-preview requirement applies only when media is part of the post.

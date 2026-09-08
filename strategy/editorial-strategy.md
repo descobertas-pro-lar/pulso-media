@@ -25,6 +25,8 @@ Last updated: September 8, 2026. This is the central handoff document for future
 
 ## Posting plan
 
+- Text-based posts must be native X text, not text rendered into banners, pictures or quote cards (explicit user clarification, September 8). Present the actual post text in approval batches. Do not create or attach decorative text graphics; use genuine incident media where the post calls for it.
+
 - Timezone: America/Sao_Paulo (Brasília time).
 - Target windows: 08:00, 12:30, 19:30. Test these; do not call them proven optimal times.
 - Aim for two or three good posts daily. Skip weak/unverified stories rather than fill a quota.
