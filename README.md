@@ -33,6 +33,7 @@ Morning research starts at 06:30 Brasília, aiming for a batch around 07:00. The
 | [editorial/batches/media/2026-09-08/fake-delivery-charge.png](editorial/batches/media/2026-09-08/fake-delivery-charge.png) | Rejected text-card proposal; historical only, do not attach. |
 | [editorial/batches/media/2026-09-08/tcu-digital-fraud.png](editorial/batches/media/2026-09-08/tcu-digital-fraud.png) | Rejected text-card proposal; historical only, do not attach. |
 | [clips/2026-09-06-belem-delivery-disguise-branded.mp4](clips/2026-09-06-belem-delivery-disguise-branded.mp4) | Inspected Belém CCTV with bottom branding, awaiting approval. |
+| [editorial/scripts/2026-09-08-delivery-scam-ai-video.md](editorial/scripts/2026-09-08-delivery-scam-ai-video.md) | 25-second AI simulation script for the delivery-charge scam; not produced or approved. |
 | [editorial/batches/README.md](editorial/batches/README.md) | How to record each day’s approval batch. |
 | [assets/brand/video/bottom-bar-960.png](assets/brand/video/bottom-bar-960.png) | Approved reusable bottom-only video branding. |
 | [clips/2026-09-04-pechincha-robbery-branded.mp4](clips/2026-09-04-pechincha-robbery-branded.mp4) | Bottom-bar example; saved, not published. |
