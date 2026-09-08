@@ -1,5 +1,7 @@
 # Scam post template
 
+See [Post formats](post-formats.md) for the complete format catalog and shared publishing rules.
+
 Adopted from the user's explicit instruction on September 8, 2026.
 
 ## Required format

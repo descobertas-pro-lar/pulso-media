@@ -1,5 +1,7 @@
 # CCTV post template
 
+See [Post formats](post-formats.md) for the complete format catalog and shared publishing rules.
+
 
 
 ## Required CCTV post format

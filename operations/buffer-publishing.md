@@ -68,3 +68,7 @@ User clarified September 8: text-based posts use native X text, without banners,
 ## News image requirement
 
 User clarified September 8: news/politics posts always attach a relevant image, while the caption remains native X text. The text-only rule above applies to standalone commentary, not news posts or the separate scam template. Preview and verify the actual selected image before asking for approval; never substitute a decorative text card. Do not treat caption approval as approval of an unseen image.
+
+## Format selection
+
+Read [Post formats](../strategy/post-formats.md) before composing: it specifies opening, body, source/credit placement and attachment requirements for every kind. Earlier generic text-only language does not override the later news-image and scam-media rules.

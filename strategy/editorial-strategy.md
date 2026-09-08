@@ -25,6 +25,8 @@ Last updated: September 8, 2026. This is the central handoff document for future
 
 ## Posting plan
 
+Use [Post formats](post-formats.md) as the canonical guide to titles/openings, body layout, public source placement and required attachments. It distinguishes news, CCTV, scam alerts, follow-ups and commentary.
+
 - News posts, including politics, must always include a relevant image (explicit user direction, September 8). Keep the story/caption as native X text; attach a contextual photo or genuine supporting image, not a decorative text banner/card. Verify what the image depicts, its source/date and reuse status, and credit appropriately. Do not imply an archive photo shows the current event. Include the actual image in the approval preview; if it is missing, the news draft is not ready.
 
 - Scam posts use [the required scam template](scam-post-template.md): “🚨 CUIDADO COM O {scam_name}”, blank line, explanatory description, blank line, native video/picture depicting the scam. Meaningful evidence media accompanies native caption text; decorative text banners/cards remain excluded.
