@@ -10,6 +10,8 @@ This repository is the canonical source for all Pulso tasks, as designated by th
 2. Read the [September 7–13 editorial queue](outputs/pulso-brasil-week-2026-09-07.md).
 3. Review [pending research](outputs/pending-research.md) and the [research automation](automation.md).
 
+**Goal: 1,000 followers by September 30, 2026 (Brasília time).** See the strategy for tracking and the required `🚨 ALERTA` CCTV template.
+
 ## Editorial direction
 
 Brazilian crime/public safety, scams, some politics and related humor. Prioritize CCTV, dashcam or eyewitness footage showing the incident itself, with short Brazilian Portuguese context. Visually inspect clips before recommending them. Presenter-led news packages are not the desired format.

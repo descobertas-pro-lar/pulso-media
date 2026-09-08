@@ -10,6 +10,8 @@ Video correction (07/09): the corresponding HLS clip was downloaded to [outputs/
 
 Replacement attempt (07/09): Buffer cannot delete the already-sent link post, and the X browser session was logged out. The user subsequently canceled deletion. Video publication subsequently completed through Buffer MCP without X browser login; see the confirmed publication record below.
 
+Meta: 1.000 seguidores até 30/09/2026. Os novos rascunhos CCTV devem seguir o formato `🚨 ALERTA: {description}\n\nFonte: {source}, {date}\n\n{video}`, com vídeo nativo anexado; veja a estratégia para as regras de data e atribuição. Priorizar o preenchimento dos slots CCTV com imagens inspecionadas.
+
 ## Rascunhos para agendamento
 
 ### Terça, 08/09, 08:00

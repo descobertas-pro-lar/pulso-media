@@ -14,6 +14,33 @@ Last updated: September 8, 2026. This is the central handoff document for future
 - Repeatable formats: “Câmera flagrou”, “Golpe da vez”, “E depois?”, “Prometeu / entregou”, and short original commentary.
 - The user explicitly liked the banner. Preserve its bold condensed lettering, off-white/navy palette, green/yellow accents and editorial character. Do not reopen the rejected criticism of the banner as if the user accepted it.
 
+## Growth objective and review — September 8, 2026
+
+- Explicit user goal: reach **1,000 total X followers by September 30, 2026, 23:59 Brasília time**. This is a target, not a guaranteed outcome. Current follower count has not been verified; do not treat it as zero.
+- Establish a dated follower baseline, then track net followers daily. Required daily pace = (1000 − current followers) / remaining days. From a hypothetical zero baseline on September 8, approximately 44 net followers per day across September 8–30 would be needed.
+- Review finding: the strategy has a clear content direction but the existing queue is heavy on evergreen text, while the desired flagship format is verified incident footage. Prioritize filling the open crime/CCTV slots with inspected footage before expanding the queue. Keep the working content mix experimental.
+- Continue the existing two-to-three quality posts per day and post-publication engagement plan. Use follow-up reporting and scam utility to give viewers a reason to follow beyond a single clip.
+- At weekly reviews on September 13, 20 and 27, compare net follower growth with the required pace, assess which formats generate follows where attribution is available, and shift effort toward the strongest observed formats. Record account-level growth separately when post-level attribution is unavailable; views alone do not demonstrate follower conversion.
+- The current research automation ends September 13. The month-end goal does not silently extend the automation or authorize automatic publishing; plan the remaining weeks explicitly.
+
+## Required CCTV post format
+
+Use the user's exact structure, preserving blank lines:
+
+```text
+🚨 ALERTA: {description}
+
+Fonte: {source}, {date}
+
+{video}
+```
+
+- `{description}`: concise Brazilian Portuguese description of the visible incident, with verified location and attribution where necessary. Avoid implying an old clip is a current emergency.
+- `{source}`: credited newsroom, official source or original footage provider. Retain the supporting URL in the research record.
+- `{date}`: use DD/MM/YYYY with an explicit label when necessary. Default the source line to `publicado em DD/MM/YYYY`; put a separately verified event date in the description when it differs. Never pass publication date off as incident date.
+- `{video}` means the actual native video attachment, not literal placeholder text or an article link. In Buffer, send caption text and `assets.video.url` separately. Keep the caption within the account's character limit.
+- Apply this format to new CCTV drafts and approved future posts; do not retroactively edit published posts without authorization.
+
 ## Brand assets
 
 - Banner: [pulso-brasil-banner.png](pulso-brasil-banner.png)
