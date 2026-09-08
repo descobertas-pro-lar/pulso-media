@@ -18,6 +18,7 @@ Morning research starts at 06:30 Brasília, aiming for a batch around 07:00. The
 | [AGENTS.md](AGENTS.md) | Instructions for all Pulso tasks and repository synchronization. |
 | [.gitignore](.gitignore) | Excludes local environment files, OS metadata and caches. |
 | [strategy/editorial-strategy.md](strategy/editorial-strategy.md) | Current positioning, 1k goal, posting plan and sourcing rules. |
+| [strategy/scam-post-template.md](strategy/scam-post-template.md) | Required scam caption and meaningful evidence-media format. |
 | [strategy/cctv-post-template.md](strategy/cctv-post-template.md) | Exact ALERTA caption layout, dates and attachment rules. |
 | [strategy/growth-experiment-10k.md](strategy/growth-experiment-10k.md) | Proposed 60/30/10 test and measurement plan; not adopted. |
 | [operations/buffer-publishing.md](operations/buffer-publishing.md) | Buffer connection history, native video support and approval workflow. |

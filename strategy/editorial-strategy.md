@@ -25,6 +25,8 @@ Last updated: September 8, 2026. This is the central handoff document for future
 
 ## Posting plan
 
+- Scam posts use [the required scam template](scam-post-template.md): “🚨 CUIDADO COM O {scam_name}”, blank line, explanatory description, blank line, native video/picture depicting the scam. Meaningful evidence media accompanies native caption text; decorative text banners/cards remain excluded.
+
 - Scam posts should explain how the scam works and create grounded alertness, not read like government advice ads (user direction, September 8). Lead with the concrete lure or message, explain why someone might believe it, then expose the attempted deception or loss. Practical tips may follow briefly, but should not replace the mechanism. Use concise, conversational Portuguese; avoid checklist-first copy, invented victim stories, unsupported urgency and claims that scammers know personal details without evidence. Keep source attribution.
 
 - Text-based posts must be native X text, not text rendered into banners, pictures or quote cards (explicit user clarification, September 8). Present the actual post text in approval batches. Do not create or attach decorative text graphics; use genuine incident media where the post calls for it.
@@ -55,6 +57,7 @@ Last updated: September 8, 2026. This is the central handoff document for future
 ## Related documents
 
 - [CCTV caption template](cctv-post-template.md)
+- [Scam post template](scam-post-template.md)
 - [Proposed 10k experiment](growth-experiment-10k.md)
 - [Buffer workflow](../operations/buffer-publishing.md)
 - [Morning automation](../operations/morning-automation.md)
