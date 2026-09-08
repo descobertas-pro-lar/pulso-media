@@ -24,7 +24,7 @@ Morning research starts at 06:30 Brasília, aiming for a batch around 07:00. The
 | [operations/morning-automation.md](operations/morning-automation.md) | Saved live-job prompt and schedule; Markdown alone does not install a job. |
 | [editorial/calendar/2026-09-07-to-2026-09-13.md](editorial/calendar/2026-09-07-to-2026-09-13.md) | Weekly drafts, time slots, verification notes and historical test notes. |
 | [editorial/research/2026-09-08-bio-and-pinned-post.md](editorial/research/2026-09-08-bio-and-pinned-post.md) | Live bio observation, proposed replacement and inspected pinned-video candidate. |
-| [clips/2026-09-04-pechincha-robbery-red-circle.mp4](clips/2026-09-04-pechincha-robbery-red-circle.mp4) | User-requested red-circle annotation of the review clip; not published. |
+| [clips/2026-09-04-pechincha-robbery-red-circle.mp4](clips/2026-09-04-pechincha-robbery-red-circle.mp4) | Published red-circle CCTV clip; preserve its public URL. |
 | [clips/2026-09-04-pechincha-robbery-preview.mp4](clips/2026-09-04-pechincha-robbery-preview.mp4) | Silent 14.5-second CCTV review candidate; not approved or published. |
 | [editorial/research/pending-leads.md](editorial/research/pending-leads.md) | Unverified leads awaiting footage/context checks. |
 | [editorial/published/2026-09.md](editorial/published/2026-09.md) | September published captions, sources, post IDs and historical outcomes. |

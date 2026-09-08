@@ -20,3 +20,7 @@ Fonte: {source}, {date}
 - `{video}` means the actual native video attachment, not literal placeholder text or an article link. In Buffer, send caption text and `assets.video.url` separately. Keep the caption within the account's character limit.
 - Apply this format to new CCTV drafts and approved future posts; do not retroactively edit published posts without authorization.
 
+
+## Video annotation
+
+Add a red circle around the action in incident videos, per user instruction on September 8. Position/time it accurately, move it when needed, preserve source credits and key details, and inspect the rendered result. Show the annotated clip in the approval batch; retain the original.

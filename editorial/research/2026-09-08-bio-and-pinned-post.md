@@ -47,3 +47,7 @@ Direct source MP4: https://d147dt0faszygd.cloudfront.net/wp-newr7/20260907/6a9ee
 ## Requested annotation
 
 User requested a red circle around the action. Created `clips/2026-09-04-pechincha-robbery-red-circle.mp4`, retaining the original preview separately. Fixed red ring centered at (402,155), inner/outer radii 102/108 pixels, highlights the incident area near the umbrella behind the blue advertising figure. It does not track the departing motorcycle. Same silent duration and source graphics. Visually checked rendered frame. Video edit approved by the request; publication/pinning still awaits approval.
+
+## Publication approval — September 8
+
+User approved publishing the red-circle variant with “great. post it!” and requested adding circles to the strategy. Submitted through Buffer, post ID `6a9f973e054b6beb81ae10f2`; creation returned sent at 2026-09-08T05:04:01.501Z. Bio remains a proposal. Pinning has not been performed.
