@@ -1,10 +1,10 @@
 # Video branding — approved September 8, 2026
 
-Every published @PulsoBrasil video gets a branded bottom bar APPENDED BELOW the footage. The video area is never covered.
+Every published @PulsoBrasil video gets a branded bar APPENDED ABOVE the footage. The video area is never covered.
 
 ## Spec
 
-- Canvas: video height + 56px navy bar (`#0B1120`), same width (e.g. 960x540 → 960x596)
+- Canvas: 56px navy bar (`#0B1120`) ON TOP + video below (e.g. 960x540 → 960x596, video offset y=56)
 - Left: `@PulsoBrasil` in cream `#F2F0E6`, Arial Bold 26px, at x=26, vertically centered in bar
 - Right: PB logo (`assets/brand/pb-avatar.png`) resized 44x44, 12px from right edge, 6px top margin in bar
 - No other accent bars, no overlays on the footage itself
@@ -16,7 +16,7 @@ Every published @PulsoBrasil video gets a branded bottom bar APPENDED BELOW the 
 #   /tmp/pb_logo_44.png   — pb-avatar.png resized to 44x44
 #   /tmp/handle_txt.png   — '@PulsoBrasil' Arial Bold 26 cream on transparent
 ffmpeg -ss <start> -to <end> -i source.mp4 -i pb_logo_44.png -i handle_txt.png \
-  -filter_complex "[0:v]pad=960:596:0:0:color=0x0B1120[bg]; [bg][1:v]overlay=904:546[b1]; [b1][2:v]overlay=26:549" \
+  -filter_complex "[0:v]pad=960:596:0:56:color=0x0B1120[bg]; [bg][1:v]overlay=904:6[b1]; [b1][2:v]overlay=26:9" \
   -c:v libx264 -preset fast -crf 20 -c:a aac -y out-branded.mp4
 ```
 
