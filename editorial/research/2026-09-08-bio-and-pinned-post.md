@@ -43,3 +43,7 @@ Fonte: Balanço Geral RJ/Record, publicado em 07/09/2026
 The bio supplies the follow promise; keep the crime caption specific and in the mandatory format. Await user approval before publishing or pinning. Recheck live profile/post state first.
 
 Direct source MP4: https://d147dt0faszygd.cloudfront.net/wp-newr7/20260907/6a9eeee0e0198d4dd6d45b5e/t_88c6a9bb5ae349de85211656fe6e1712_name_BGT_R7_07SET26___ATIRA_ROUBO_CORDAO___VT/file_960x540-1600-v4.mp4
+
+## Requested annotation
+
+User requested a red circle around the action. Created `clips/2026-09-04-pechincha-robbery-red-circle.mp4`, retaining the original preview separately. Fixed red ring centered at (402,155), inner/outer radii 102/108 pixels, highlights the incident area near the umbrella behind the blue advertising figure. It does not track the departing motorcycle. Same silent duration and source graphics. Visually checked rendered frame. Video edit approved by the request; publication/pinning still awaits approval.
