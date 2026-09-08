@@ -29,6 +29,7 @@ Morning research starts at 06:30 Brasília, aiming for a batch around 07:00. The
 | [clips/2026-09-04-pechincha-robbery-red-circle.mp4](clips/2026-09-04-pechincha-robbery-red-circle.mp4) | Published red-circle CCTV clip; preserve its public URL. |
 | [clips/2026-09-04-pechincha-robbery-preview.mp4](clips/2026-09-04-pechincha-robbery-preview.mp4) | Silent 14.5-second CCTV review candidate; not approved or published. |
 | [editorial/research/2026-09-08-politics-news.md](editorial/research/2026-09-08-politics-news.md) | Current politics candidates, source caveats and proposed text post. |
+| [editorial/research/2026-09-08-ferrazopolis-robbery.md](editorial/research/2026-09-08-ferrazopolis-robbery.md) | New robbery reel candidate, source, inspection limits and proposed caption. |
 | [editorial/research/pending-leads.md](editorial/research/pending-leads.md) | Unverified leads awaiting footage/context checks. |
 | [editorial/published/2026-09.md](editorial/published/2026-09.md) | September published captions, sources, post IDs and historical outcomes. |
 | [editorial/batches/2026-09-08.md](editorial/batches/2026-09-08.md) | September 8 approval batch, sources, readiness checks and reply shortfall. |
