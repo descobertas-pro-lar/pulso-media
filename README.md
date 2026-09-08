@@ -41,7 +41,8 @@ Morning research starts at 06:30 Brasília, aiming for a batch around 07:00. The
 | [clips/2026-09-06-belem-delivery-disguise-branded.mp4](clips/2026-09-06-belem-delivery-disguise-branded.mp4) | Inspected Belém CCTV with bottom branding, awaiting approval. |
 | [editorial/scripts/2026-09-08-delivery-scam-ai-video.md](editorial/scripts/2026-09-08-delivery-scam-ai-video.md) | 25-second AI simulation script for the delivery-charge scam; not produced or approved. |
 | [editorial/batches/README.md](editorial/batches/README.md) | How to record each day’s approval batch. |
-| [assets/brand/video/bottom-bar-960.png](assets/brand/video/bottom-bar-960.png) | Approved reusable bottom-only video branding. |
+| [assets/brand/video-branding.md](assets/brand/video-branding.md) | Current centered, low-opacity PB logo + handle watermark specification. |
+| [assets/brand/video/bottom-bar-960.png](assets/brand/video/bottom-bar-960.png) | Historical bottom-bar asset, superseded for future videos. |
 | [clips/2026-09-04-pechincha-robbery-branded.mp4](clips/2026-09-04-pechincha-robbery-branded.mp4) | Bottom-bar example; saved, not published. |
 | [assets/brand/README.md](assets/brand/README.md) | Brand selection and approval status. |
 | [assets/brand/x-banner.png](assets/brand/x-banner.png) | Approved X banner. |

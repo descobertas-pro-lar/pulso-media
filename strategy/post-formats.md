@@ -121,8 +121,7 @@ Native text, no banner needed. Example: “Qual detalhe fez você perceber que u
 - Keep captions within the live account limit (currently a 280-character working constraint); check the complete caption including source/credit. Cut repetition before removing essential context. Do not silently split into a thread.
 - Full source URL, publication date, incident date, media origin, reuse status and inspection notes belong in the repository record even when not all fit in the public caption.
 - Actual media must be present in the approval preview. Approval is for the final caption, attachment and proposed time. Edits alone do not authorize scheduling or publishing.
-- Video branding in this task: navy bottom bar appended outside the footage; off-white @PulsoBrasil with green/yellow accents. Preserve source marks and the full image. [Asset/specification](../assets/brand/README.md).
-- Cross-task discrepancy: [video-branding.md](../assets/brand/video-branding.md) contains a top-bar specification from another task. This guide follows the user's explicit bottom-only instruction in this conversation; the other file is not permission to silently switch layouts. Preserve published files/URLs. Resolve a conflicting instruction against the user's latest direction before producing a different layout.
+- Video branding: centered low-opacity PB logo + @PulsoBrasil watermark over the footage, following the [canonical specification](../assets/brand/video-branding.md). The latest user direction supersedes previous top/bottom bars. Preserve source marks, timestamps, frame dimensions and already published files/URLs.
 - This guide supersedes generic earlier “all text posts are text-only” wording: news requires an image; scams require meaningful video/image; standalone commentary may be text-only.
 
 ## What the morning approval package shows

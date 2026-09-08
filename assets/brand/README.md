@@ -10,10 +10,8 @@ The banner is approved; final approval of the latest PB avatar is not recorded. 
 - Current generation prompts are in prompts/; the rejected avatar prompt is in archive/.
 
 
-## Approved video branding — September 8, 2026
+## Current video branding — September 8, 2026
 
-User liked the branded test and requested keeping only the bottom part. Use a navy footer appended below the footage, with off-white @PulsoBrasil at left and green/yellow diagonal accents at right. No top branding or side border. Preserve the full footage, original source marks and timestamps; do not cover them with the footer.
+Future videos use a low-opacity, centered watermark: the PB logo plus @PulsoBrasil over the footage. See [canonical watermark specification](video-branding.md). This supersedes both prior top-bar and bottom-bar instructions. Start at 20% opacity as an adjustable implementation default.
 
-Reusable asset: [960px bottom bar](video/bottom-bar-960.png), 960×54. Palette: navy #061526, off-white #F5EFDF, green #20C23A, yellow #F8C313. Handle: Arial Bold, 24px at this size. Scale the bar proportionally to the video width, maintaining legibility.
-
-Example: [branded Pechincha clip](../../clips/2026-09-04-pechincha-robbery-branded.mp4), 960×594, silent as in the approved source preview. Rendering verified. This variant is saved, not published; the previous public clip remains unchanged. Circles remain conditional on action clarity, per the strategy.
+The existing [bottom bar](video/bottom-bar-960.png) and already published branded clips are historical assets. Preserve them and their public URLs; use the centered watermark for new work.
