@@ -1,0 +1,6 @@
+Use case: ads-marketing
+Create one finished upload-ready X profile banner for Brazilian news and humor brand Pulso Brasil. Very wide 3:1 aspect ratio, ideally 1536x512. Flat finished artwork only, no device mockup.
+Art direction: confident contemporary Brazilian editorial design, minimal, witty and sophisticated. Deep midnight navy background, electric Brazilian green and warm yellow accents, off-white typography. Subtle paper grain. A single bold playful pulse line sweeps in from the left, becoming a simple speech-bubble gesture; restrained abstract geometry on far right. No stock charts, maps, glossy 3D effects or repeated logos.
+Typography is the hero: oversized heavy clean grotesk uppercase wordmark "PULSO BRASIL" in off-white, positioned in central/right area. Below it, two beautifully spaced smaller lines in exact Portuguese: "O Brasil acontece." and "A gente contextualiza." The second line in warm yellow. Clear crisp legible lettering. Text occupies middle 65% horizontally, with generous margins at top/bottom and right. Keep lower-left quadrant free of text and important imagery to accommodate X avatar overlap. Balanced composition, lots of negative space. Do not add any other text, icons, watermarks, or interface elements.
+
+Generated using the built-in image generation tool.

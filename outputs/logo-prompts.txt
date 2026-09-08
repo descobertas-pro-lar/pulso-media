@@ -1,0 +1,8 @@
+Use case: logo-brand
+Create a finished square profile avatar logo for Pulso Brasil, a Brazilian news and humor social media account. It should match a brand with midnight navy background, vivid Brazilian green, warm yellow, and bold minimal editorial design.
+Design: one distinctive thick continuous pulse line that elegantly becomes a rounded speech bubble, unified into a compact iconic symbol. Strong simple silhouette, balanced intentional geometry, professional identity design. Use vivid green for the main symbol and one restrained warm yellow accent integrated into the pulse. Center the entire symbol on a solid deep midnight navy background. Flat crisp vector-like edges; no texture, gradients, shadows, bevels, maps, flags, illustrations or stock finance charts. NO TEXT and NO LETTERS: this avatar must be instantly legible at 32 pixels. Keep the whole mark within the central 65% of the square, generous equal breathing room, safe for a circular crop. One logo only, no presentation board, mockups, alternate versions or watermarks. Output square high resolution image.
+
+Refinement:
+Refine this Pulso Brasil logo into clean flat professional artwork. Preserve the exact pulse-in-speech-bubble symbol, green and yellow colors, centered composition and generous safe margins. Remove ALL neon glow, blur, shadows, gradients, textures and distressed edges. Render the symbol with razor-sharp solid flat fills. The entire square background must be one uniform opaque midnight navy color edge to edge, no black border or transparent areas. No text. This is a small social media avatar, crisp simplicity is essential.
+
+Generated with built-in image generation.
