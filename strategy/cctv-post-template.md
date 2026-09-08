@@ -23,4 +23,4 @@ Fonte: {source}, {date}
 
 ## Video annotation
 
-Add a red circle around the action in incident videos, per user instruction on September 8. Position/time it accurately, move it when needed, preserve source credits and key details, and inspect the rendered result. Show the annotated clip in the approval batch; retain the original.
+Use a red circle only when the action is hard to spot, such as when it happens far in the background or amid visual clutter (user clarification, September 8). Leave clearly visible action unannotated; circles are a clarity aid, not a default decoration. Position/time it accurately, move it when needed, preserve source credits and key details, and inspect the rendered result. Show the annotated clip in the approval batch; retain the original.
