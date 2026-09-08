@@ -25,6 +25,8 @@ Last updated: September 8, 2026. This is the central handoff document for future
 
 ## Posting plan
 
+- Scam posts should explain how the scam works and create grounded alertness, not read like government advice ads (user direction, September 8). Lead with the concrete lure or message, explain why someone might believe it, then expose the attempted deception or loss. Practical tips may follow briefly, but should not replace the mechanism. Use concise, conversational Portuguese; avoid checklist-first copy, invented victim stories, unsupported urgency and claims that scammers know personal details without evidence. Keep source attribution.
+
 - Text-based posts must be native X text, not text rendered into banners, pictures or quote cards (explicit user clarification, September 8). Present the actual post text in approval batches. Do not create or attach decorative text graphics; use genuine incident media where the post calls for it.
 
 - Timezone: America/Sao_Paulo (Brasília time).
