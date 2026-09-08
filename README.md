@@ -2,6 +2,8 @@
 
 Strategy, editorial context and public media for [@PulsoBrasil](https://x.com/PulsoBrasil).
 
+This repository is the canonical source for all Pulso tasks, as designated by the user on September 8, 2026. Keep decisions, drafts, assets and operational results here; use the latest repository context in every task.
+
 ## Start here
 
 1. Read [AGENTS.md](AGENTS.md) and the [strategy and operating context](outputs/pulso-brasil-strategy.md).
