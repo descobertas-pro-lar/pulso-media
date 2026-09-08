@@ -1,9 +1,9 @@
-# Pulso Brasil workspace
+# Pulso Brasil — task instructions
 
-This repository, https://github.com/descobertas-pro-lar/pulso-media, is the user-designated canonical source for ALL Pulso tasks. Start from its current contents, reconcile remote changes without overwriting local work, and record new decisions, research and publishing results here. Other workspace copies are historical snapshots. Live external state must still be verified; this designation does not expand publishing authorization.
+Canonical repository: https://github.com/descobertas-pro-lar/pulso-media. Use its current contents for all Pulso tasks. Reconcile remote changes without overwriting local work, and keep GitHub synced with decisions and results.
 
-For Pulso Brasil work, read `outputs/pulso-brasil-strategy.md` first. It contains the user's editorial direction, preferred assets, posting plan, verified Buffer connection details, automation scope and pending work.
+Read README.md and strategy/editorial-strategy.md first. Also read strategy/cctv-post-template.md, operations/buffer-publishing.md, operations/morning-automation.md, the relevant editorial/calendar/ weekly plan, and editorial/published/ records before posting work. strategy/growth-experiment-10k.md is a proposal, not adopted policy.
 
-For the September 7–13, 2026 queue, also read `outputs/pulso-brasil-week-2026-09-07.md`.
+Save research in editorial/research/, daily approvals in editorial/batches/YYYY-MM-DD.md, and publication results in editorial/published/YYYY-MM.md. Brand assets belong in assets/brand/; prepared videos in clips/; source reports in media/source-reports/. Preserve public URLs of published media. Update README.md when adding files.
 
-Recheck live external state before changes. A saved connection or draft is not evidence that a post was published or that publishing was authorized. Keep the strategy document updated when the user changes direction or publishing/automation state changes. Never save credentials in these files.
+Verify live external state before mutations. Saved drafts and historical connection records do not prove current state or authorize publishing. Schedule only approved final posts; preserve the established morning approval workflow. Never save credentials.

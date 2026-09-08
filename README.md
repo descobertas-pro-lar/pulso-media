@@ -1,76 +1,45 @@
 # Pulso Brasil
 
-Strategy, editorial context and public media for [@PulsoBrasil](https://x.com/PulsoBrasil).
-
-This repository is the canonical source for all Pulso tasks, as designated by the user on September 8, 2026. Keep decisions, drafts, assets and operational results here; use the latest repository context in every task.
+Canonical repository for [@PulsoBrasil](https://x.com/PulsoBrasil): strategy, approvals, operations and media. Goal: **1,000 followers by September 30, 2026**, with a proposed path toward 10k.
 
 ## Start here
 
-1. Read [AGENTS.md](AGENTS.md) and the [strategy and operating context](outputs/pulso-brasil-strategy.md).
-2. Read the [September 7–13 editorial queue](outputs/pulso-brasil-week-2026-09-07.md).
-3. Review [pending research](outputs/pending-research.md) and the [research automation](automation.md).
+1. [Task instructions](AGENTS.md) and [current strategy](strategy/editorial-strategy.md).
+2. [CCTV template](strategy/cctv-post-template.md) and [Buffer workflow](operations/buffer-publishing.md).
+3. Relevant weekly calendar, pending leads, approval batches and publication log below.
 
-**Goal: 1,000 followers by September 30, 2026 (Brasília time).** See the strategy for tracking and the required `🚨 ALERTA` CCTV template.
-
-## Editorial direction
-
-Brazilian crime/public safety, scams, some politics and related humor. Prioritize CCTV, dashcam or eyewitness footage showing the incident itself, with short Brazilian Portuguese context. Visually inspect clips before recommending them. Presenter-led news packages are not the desired format.
+Morning research starts at 06:30 Brasília, aiming for a batch around 07:00. The user reviews captions/media/times; approved posts are scheduled for 08:00, 12:30 and 19:30. The current automation ends September 13. Proposal documents do not change the active mix or publishing authority.
 
 ## File guide
 
-### Project instructions and operations
-
 | File | Purpose |
 |---|---|
-| [README.md](README.md) | Repository overview, reading order, file guide and publishing workflow. Start here to find the right document. |
-| [AGENTS.md](AGENTS.md) | Instructions for assistants working on Pulso: use this repository as the canonical source, preserve existing work, verify live state and respect approvals. |
-| [automation.md](automation.md) | Saved morning automation schedule and full prompt. Documents the live job; editing this Markdown file alone does not update or install the automation. |
-| [.gitignore](.gitignore) | Keeps macOS metadata, local environment files and Python cache files out of Git. Never commit credentials. |
+| [README.md](README.md) | Repository map and reading order. |
+| [AGENTS.md](AGENTS.md) | Instructions for all Pulso tasks and repository synchronization. |
+| [.gitignore](.gitignore) | Excludes local environment files, OS metadata and caches. |
+| [strategy/editorial-strategy.md](strategy/editorial-strategy.md) | Current positioning, 1k goal, posting plan and sourcing rules. |
+| [strategy/cctv-post-template.md](strategy/cctv-post-template.md) | Exact ALERTA caption layout, dates and attachment rules. |
+| [strategy/growth-experiment-10k.md](strategy/growth-experiment-10k.md) | Proposed 60/30/10 test and measurement plan; not adopted. |
+| [operations/buffer-publishing.md](operations/buffer-publishing.md) | Buffer connection history, native video support and approval workflow. |
+| [operations/morning-automation.md](operations/morning-automation.md) | Saved live-job prompt and schedule; Markdown alone does not install a job. |
+| [editorial/calendar/2026-09-07-to-2026-09-13.md](editorial/calendar/2026-09-07-to-2026-09-13.md) | Weekly drafts, time slots, verification notes and historical test notes. |
+| [editorial/research/pending-leads.md](editorial/research/pending-leads.md) | Unverified leads awaiting footage/context checks. |
+| [editorial/published/2026-09.md](editorial/published/2026-09.md) | September published captions, sources, post IDs and historical outcomes. |
+| [editorial/batches/README.md](editorial/batches/README.md) | How to record each day’s approval batch. |
+| [assets/brand/README.md](assets/brand/README.md) | Brand selection and approval status. |
+| [assets/brand/x-banner.png](assets/brand/x-banner.png) | Approved X banner. |
+| [assets/brand/pb-avatar.png](assets/brand/pb-avatar.png) | Latest PB avatar candidate; final approval not recorded. |
+| [assets/brand/prompts/x-banner.txt](assets/brand/prompts/x-banner.txt) | Banner generation prompt. |
+| [assets/brand/prompts/pb-avatar.txt](assets/brand/prompts/pb-avatar.txt) | PB avatar generation prompt. |
+| [assets/brand/archive/rejected-pulse-avatar.png](assets/brand/archive/rejected-pulse-avatar.png) | Superseded avatar, historical only. |
+| [assets/brand/archive/rejected-pulse-avatar-prompts.txt](assets/brand/archive/rejected-pulse-avatar-prompts.txt) | Prompts for the rejected avatar. |
+| [media/README.md](media/README.md) | Media naming and stable URL rules. |
+| [media/source-reports/2026-04-09-avenida-brasil-truck-robbery.mp4](media/source-reports/2026-04-09-avenida-brasil-truck-robbery.mp4) | Full downloaded news package from the workflow test. |
+| [clips/README.md](clips/README.md) | Prepared clip provenance and compatibility explanation. |
+| [clips/tiroteio-cachambi-2026-09-04.mp4](clips/tiroteio-cachambi-2026-09-04.mp4) | Published 26-second incident clip; URL retained. |
 
-### Strategy, planning and research
+## Naming and maintenance
 
-| File | Purpose |
-|---|---|
-| [outputs/pulso-brasil-strategy.md](outputs/pulso-brasil-strategy.md) | Main operating document: audience, goals, editorial rules, CCTV template, posting cadence, Buffer workflow, authorization scope and historical publication records. Separates the current operating mix from the proposed 10k experiment. Update when decisions or operational results change. |
-| [outputs/pulso-brasil-week-2026-09-07.md](outputs/pulso-brasil-week-2026-09-07.md) | September 7–13 editorial queue: draft captions, sources, proposed slots, verification gaps and workflow-test results. A listed draft is not automatically approved or scheduled. |
-| [outputs/pending-research.md](outputs/pending-research.md) | Unfinished footage leads and next verification steps. Also contains the later September 8 Cachambi publication record; distinguish its published section from the unverified leads. |
+Use descriptive lowercase kebab-case names. Weekly plans: `editorial/calendar/YYYY-MM-DD-to-YYYY-MM-DD.md`; batches: `editorial/batches/YYYY-MM-DD.md`; publication logs: `editorial/published/YYYY-MM.md`. Keep rejected brand work in archive/. Dates on media must have a documented meaning.
 
-### Brand assets and generation prompts
-
-| File | Purpose / status |
-|---|---|
-| [outputs/pulso-brasil-banner.png](outputs/pulso-brasil-banner.png) | User-approved X banner and visual reference for the brand. |
-| [outputs/banner-prompt.txt](outputs/banner-prompt.txt) | Original generation instructions for the banner: layout, colors, lettering and tagline. |
-| [outputs/pulso-brasil-logo-v2.png](outputs/pulso-brasil-logo-v2.png) | Latest PB lettermark designed to match the banner. Preferred logo candidate; explicit final approval is not recorded. |
-| [outputs/logo-v2-prompt.txt](outputs/logo-v2-prompt.txt) | Generation instructions for the PB logo using the banner as reference. |
-| [outputs/pulso-brasil-logo.png](outputs/pulso-brasil-logo.png) | Rejected/superseded pulse-and-speech-bubble logo. Historical reference only. |
-| [outputs/logo-prompts.txt](outputs/logo-prompts.txt) | Initial and refinement prompts for the earlier rejected logo. |
-
-### Video files
-
-| File | Purpose / status |
-|---|---|
-| [outputs/pulso-brasil-assalto-caminhao.mp4](outputs/pulso-brasil-assalto-caminhao.mp4) | Downloaded truck-robbery news package from the first video workflow test. Historical media; presenter-led reports are not the preferred future CCTV format. The successful Buffer post used the source's direct MP4 URL. |
-| [clips/tiroteio-cachambi-2026-09-04.mp4](clips/tiroteio-cachambi-2026-09-04.mp4) | 26-second Cachambi/Engenho de Dentro incident excerpt. Source, cut timestamps, caption, Buffer ID and September 8 publication link are recorded in pending-research.md. |
-
-`outputs/` holds working documents, brand assets and historical workflow media. `clips/` holds prepared clips for posts. Neither folder automatically publishes its contents. Git tracks changes; its internal `.git/` directory is not project content and is not listed here.
-
-## Keeping context current
-
-Save new Pulso decisions and results in this repository and keep GitHub in sync. Update this guide when adding or renaming files. Record draft, approved, scheduled and published states explicitly, including post IDs and timestamps when available. Read dated updates together: a later publication record may supersede an older pending note. Verify current Buffer/X state before acting.
-
-## Publishing workflow
-
-Research starts at 06:30 Brasília, aiming for one whole-day approval batch around 07:00. Review 2–3 numbered posts with final captions, media previews and proposed 08:00 / 12:30 / 19:30 slots. Approve or edit in one reply; approved final posts are scheduled through Buffer without another confirmation. Verify scheduled status and native assets; record IDs and times.
-
-Buffer MCP supports native X videos with `assets: [{video: {url: directMp4Url}}]`. A public direct MP4 is required by this tested workflow; a local path is not a remote upload. An HLS URL failed in the test. “Minimum requirements: text only” does not prohibit video. No X browser login was needed for the successful MCP publication.
-
-Publishing approval applies to the specific approved post, not all future posts. The morning batch is not scheduled until explicitly approved. Connection details and publication IDs are in the strategy; always recheck live state. Never commit credentials.
-
-## Verified publication history
-
-- [Article-link test](https://x.com/PulsoBrasil/status/2097097528776724517)
-- [Native-video test](https://x.com/PulsoBrasil/status/2097104802182275397)
-- [Cachambi incident clip](https://x.com/PulsoBrasil/status/2097163462010929591)
-
-The two workflow tests were published September 7, 2026; the Cachambi clip was recorded as published September 8. The user asked to retain the original link post. Saved context is historical evidence, not a fresh check of the account.
+The former outputs/ directory has been split by purpose. Existing published clip URLs are retained. Add new decisions and results to the appropriate document, update this guide, and commit/push changes. Always verify live X/Buffer state before mutations; never commit credentials.
