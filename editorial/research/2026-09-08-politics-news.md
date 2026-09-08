@@ -8,7 +8,7 @@ Source: https://www.cnnbrasil.com.br/blogs/caio-junqueira/politica/fachin-adiou-
 
 Caio Junqueira reporting published September 8 at 07:50, updated 07:54. Meeting scheduled for September 9 was cancelled/postponed September 7, without new date. Official explanation: scheduling overload. CNN reports that the leaked civil-society/business manifesto demanding scrutiny of accusations against ministers was considered a key factor by its sources. This alleged motive is not independently established or an official admission. The manifesto is a draft reported by CNN, with publication expected September 9; do not claim it has already been formally issued. No claim that accusations against ministers are proven.
 
-Editorial judgment: the strongest fresh report among the inspected candidates for Pulso's accountability angle; recommended replacement for the historical TCU slot, subject to user approval. Fresh reporting today about yesterday's action, not an event occurring this minute. Text only.
+Editorial judgment: the strongest fresh report among the inspected candidates for Pulso's accountability angle; recommended replacement for the historical TCU slot, subject to user approval. Fresh reporting today about yesterday's action, not an event occurring this minute. Native text caption plus a relevant image, per the subsequent user instruction. Image selection and inspection pending; not yet a complete approval package.
 
 Proposed caption:
 
@@ -31,3 +31,7 @@ CNN publication September 7 at 18:35, not today's breaking event. First Panel ha
 ## Not selected
 
 https://www.cnnbrasil.com.br/blogs/teo-cury/politica/fim-do-inquerito-das-fake-news-para-sanar-crise-racha-stf-e-amplia-tensao/ — September 7 reporting on internal disagreement; not a fresh order closing the inquiry.
+
+## User media requirement
+
+All these news candidates require a relevant image. For the Fachin candidate, select and inspect a contextual photograph with credit and an accurate archive/current-event distinction. No image has yet been selected or approved. This request sets a format preference; it does not authorize publishing.

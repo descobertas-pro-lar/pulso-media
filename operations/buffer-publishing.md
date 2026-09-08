@@ -64,3 +64,7 @@ Use `assets: [{video: {url: directMp4Url}}]`. HLS (.m3u8) failed in the test; a 
 ## Text-only posts
 
 User clarified September 8: text-based posts use native X text, without banners, pictures or rendered text cards. Omit `assets` for these posts. Approval previews show the actual text; the media-preview requirement applies only when media is part of the post.
+
+## News image requirement
+
+User clarified September 8: news/politics posts always attach a relevant image, while the caption remains native X text. The text-only rule above applies to standalone commentary, not news posts or the separate scam template. Preview and verify the actual selected image before asking for approval; never substitute a decorative text card. Do not treat caption approval as approval of an unseen image.

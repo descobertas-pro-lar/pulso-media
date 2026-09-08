@@ -25,11 +25,13 @@ Last updated: September 8, 2026. This is the central handoff document for future
 
 ## Posting plan
 
+- News posts, including politics, must always include a relevant image (explicit user direction, September 8). Keep the story/caption as native X text; attach a contextual photo or genuine supporting image, not a decorative text banner/card. Verify what the image depicts, its source/date and reuse status, and credit appropriately. Do not imply an archive photo shows the current event. Include the actual image in the approval preview; if it is missing, the news draft is not ready.
+
 - Scam posts use [the required scam template](scam-post-template.md): “🚨 CUIDADO COM O {scam_name}”, blank line, explanatory description, blank line, native video/picture depicting the scam. Meaningful evidence media accompanies native caption text; decorative text banners/cards remain excluded.
 
 - Scam posts should explain how the scam works and create grounded alertness, not read like government advice ads (user direction, September 8). Lead with the concrete lure or message, explain why someone might believe it, then expose the attempted deception or loss. Practical tips may follow briefly, but should not replace the mechanism. Use concise, conversational Portuguese; avoid checklist-first copy, invented victim stories, unsupported urgency and claims that scammers know personal details without evidence. Keep source attribution.
 
-- Text-based posts must be native X text, not text rendered into banners, pictures or quote cards (explicit user clarification, September 8). Present the actual post text in approval batches. Do not create or attach decorative text graphics; use genuine incident media where the post calls for it.
+- Text-based posts must use native X text for their wording, not text rendered into banners, pictures or quote cards (explicit user clarification, September 8). Present the actual post text in approval batches. Do not create or attach decorative text graphics; use genuine incident media where the post calls for it. News posts require a relevant image and scam posts require illustrative evidence media under their specific rules; standalone commentary can remain text-only.
 
 - Timezone: America/Sao_Paulo (Brasília time).
 - Target windows: 08:00, 12:30, 19:30. Test these; do not call them proven optimal times.
