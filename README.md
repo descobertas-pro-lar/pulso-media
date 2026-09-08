@@ -46,6 +46,7 @@ Morning research starts at 06:30 Brasília, aiming for a batch around 07:00. The
 | [assets/brand/prompts/pb-avatar.txt](assets/brand/prompts/pb-avatar.txt) | PB avatar generation prompt. |
 | [assets/brand/archive/rejected-pulse-avatar.png](assets/brand/archive/rejected-pulse-avatar.png) | Superseded avatar, historical only. |
 | [assets/brand/archive/rejected-pulse-avatar-prompts.txt](assets/brand/archive/rejected-pulse-avatar-prompts.txt) | Prompts for the rejected avatar. |
+| [media/news-images/2026-09-08-fachin-stf-archive.jpg](media/news-images/2026-09-08-fachin-stf-archive.jpg) | Credited archive photo attached to the September 8 Fachin news post. |
 | [media/README.md](media/README.md) | Media naming and stable URL rules. |
 | [media/source-reports/2026-04-09-avenida-brasil-truck-robbery.mp4](media/source-reports/2026-04-09-avenida-brasil-truck-robbery.mp4) | Full downloaded news package from the workflow test. |
 | [clips/README.md](clips/README.md) | Prepared clip provenance and compatibility explanation. |

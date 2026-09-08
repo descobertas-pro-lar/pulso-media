@@ -35,3 +35,11 @@ https://www.cnnbrasil.com.br/blogs/teo-cury/politica/fim-do-inquerito-das-fake-n
 ## User media requirement
 
 All these news candidates require a relevant image. For the Fachin candidate, select and inspect a contextual photograph with credit and an accurate archive/current-event distinction. No image has yet been selected or approved. This request sets a format preference; it does not authorize publishing.
+
+## Publication completed
+
+September 8: user explicitly instructed “now post the news you sent me with the image”, authorizing the previously proposed Fachin story and selection of a relevant photo. Article re-fetched via curl before publication; headline, official explanation and photo credit remained as reported. Web fetch failed but direct HTML retrieval succeeded. Selected article photo visually inspected: Fachin seated in judicial robes, no news banner. Photographer credit Rosinei Coutinho/STF; capture date not established, treated as archive contextual image. Article attribution is not a separately verified reuse licence.
+
+Image URL: https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/05/edson-fachin-plenario-stf_2eb6a1-e1781279586874.jpg?w=1200&h=630&crop=1
+
+Caption unchanged apart from adding the image credit/archive label, total 260 characters. Live Buffer list contained no duplicate Fachin post. Created once using shareNow, native image, then verified sent/assets/error via get_post. ID `6a9ff2a01a1cd6fac3746c45`; https://x.com/PulsoBrasil/status/2097287305559965977 . Earlier pending status is historical. No other batch posts approved by this request.
