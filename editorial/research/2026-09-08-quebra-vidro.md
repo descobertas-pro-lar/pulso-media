@@ -23,3 +23,7 @@ No matching story in recorded Pulso publication log. Live X/Buffer deduplication
 🚨 ALERTA: Criminoso quebra o vidro e arranca o celular do painel enquanto motorista está parada no trânsito na Av. Presidente Tancredo Neves, em São Paulo, em 28/08.
 
 Fonte: Metrópoles, 31/08/2026
+
+## Publication
+
+User approved exact preview and caption. Published September 8 at 19:42 Brasília; Buffer get_post confirmed sent with native 5790ms video and no error. https://x.com/PulsoBrasil/status/2097455444637724852 . Historical pending status above is superseded.
