@@ -27,11 +27,11 @@ Brazilian crime/public safety, scams, some politics and related humor. Prioritiz
 
 ## Publishing workflow
 
-Research → inspect footage and verify context → present caption and clip for approval → publish through Buffer → verify sent status, native video asset and X link → record the result.
+Research starts at 06:30 Brasília, aiming for one whole-day approval batch around 07:00. Review 2–3 numbered posts with final captions, media previews and proposed 08:00 / 12:30 / 19:30 slots. Approve or edit in one reply; approved final posts are scheduled through Buffer without another confirmation. Verify scheduled status and native assets; record IDs and times.
 
 Buffer MCP supports native X videos with `assets: [{video: {url: directMp4Url}}]`. A public direct MP4 is required by this tested workflow; a local path is not a remote upload. An HLS URL failed in the test. “Minimum requirements: text only” does not prohibit video. No X browser login was needed for the successful MCP publication.
 
-Publishing approval applies to the specific approved post, not all future posts. The research automation does not publish. Connection details and publication IDs are in the strategy; always recheck live state. Never commit credentials.
+Publishing approval applies to the specific approved post, not all future posts. The morning batch is not scheduled until explicitly approved. Connection details and publication IDs are in the strategy; always recheck live state. Never commit credentials.
 
 ## Verified publication history
 

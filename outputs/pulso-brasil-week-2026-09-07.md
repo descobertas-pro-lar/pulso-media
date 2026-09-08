@@ -2,7 +2,7 @@
 
 Horários: Brasília (America/Sao_Paulo). Preparado em 07/09/2026.
 Status: os itens da fila editorial são rascunhos. Dois posts de teste foram publicados; veja os registros abaixo.
-Automação ativa: pulso-brasil-pautas-e-posts, nesta conversa, diariamente às 07:00, 12:00 e 19:00 até domingo. Pesquisa e redação apenas.
+Automação ativa: pulso-brasil-pautas-e-posts, nesta conversa, diariamente às 06:30 até domingo, preparando um lote do dia para revisão por volta de 07:00. Agendamento no Buffer somente após aprovação explícita do lote ou dos posts.
 
 Workflow test update (07/09, 19:59 Brasília): the Record truck-robbery link draft was approved and published via Buffer. Buffer post ID `6a9f41e3ff0db23b2209d61f`; status verified `sent`. It was link-based; no native video asset was uploaded.
 
