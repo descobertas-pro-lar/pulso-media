@@ -8,7 +8,7 @@ Canonical repository for [@PulsoBrasil](https://x.com/PulsoBrasil): strategy, ap
 2. [CCTV template](strategy/cctv-post-template.md) and [Buffer workflow](operations/buffer-publishing.md).
 3. Relevant weekly calendar, pending leads, approval batches and publication log below.
 
-Morning research starts at 06:30 Brasília, aiming for a batch around 07:00. The user reviews captions/media/times; approved posts are scheduled for 08:00, 12:30 and 19:30. The current automation ends September 13. Proposal documents do not change the active mix or publishing authority.
+Morning research starts at 06:30 Brasília, aiming for a batch around 07:00. The morning package also includes 3–5 suggested replies with target post links for the user to post. Aim for three main posts drawn from CCTV, scams and relevant politics. The user reviews captions/media/times; approved posts are scheduled for 08:00, 12:30 and 19:30. The current automation ends September 13. Proposal documents do not change the active mix or publishing authority.
 
 ## File guide
 

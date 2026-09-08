@@ -55,3 +55,9 @@ Last updated: September 8, 2026. This is the central handoff document for future
 - [Publication log](../editorial/published/2026-09.md)
 - [Pending leads](../editorial/research/pending-leads.md)
 - [Brand guide](../assets/brand/README.md)
+
+## Daily package confirmed September 8
+
+Aim for three posts per day drawn from CCTV crime scenes, scams and relevant politics, with final captions, actual media previews and proposed 08:00, 12:30 and 19:30 Brasília times. Balance categories across the week; do not force a political story or one of each every day. If fewer than three items pass verification, explicitly identify the gap rather than supply filler. Morning preparation starts 06:30, targeting delivery around 07:00. Schedule exact approved final posts through Buffer and verify IDs/status/assets.
+
+Include 3–5 suggested replies to recent relevant posts by established reporters, creators or active niche accounts. Read each target post/thread, provide its exact URL, a concise original Portuguese reply, and a short explanation of the contribution. Prefer useful context, a verified follow-up, a relevant scam warning or a substantive question; do not invent facts, use generic agreement, repeated promotional replies, or solicit follows. Relevance matters more than account size. Reply drafts are for the user to post; batch approval of main posts does not authorize sending replies. If a thread becomes stale or changes, recheck before use.
