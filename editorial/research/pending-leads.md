@@ -7,3 +7,5 @@ The user requested another candidate using the CCTV/incident-footage criteria. R
 
 These were search leads, not verified facts ready for a caption. Prioritize the footage itself rather than another presenter-led TV clip.
 
+
+Update September 8: Pechincha source and footage inspected; preview and approval status recorded in [bio and pinned-post research](2026-09-08-bio-and-pinned-post.md). The historical lead status above is superseded for that candidate only.
