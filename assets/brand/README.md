@@ -12,6 +12,6 @@ The banner is approved; final approval of the latest PB avatar is not recorded. 
 
 ## Current video branding — September 8, 2026
 
-Future videos use a low-opacity, centered watermark: the PB logo plus @PulsoBrasil over the footage. See [canonical watermark specification](video-branding.md). This supersedes both prior top-bar and bottom-bar instructions. Start at 20% opacity as an adjustable implementation default.
+Future videos use a centered watermark: the PB logo plus @PulsoBrasil over the footage. See [canonical watermark specification](video-branding.md). This supersedes both prior top-bar and bottom-bar instructions. Use 50% opacity for both the logo and handle by default.
 
 The existing [bottom bar](video/bottom-bar-960.png) and already published branded clips are historical assets. Preserve them and their public URLs; use the centered watermark for new work.
