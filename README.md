@@ -73,3 +73,5 @@ The former outputs/ directory has been split by purpose. Existing published clip
 
 - [Three-post batch](editorial/batches/2026-09-09.md), with actual previews in editorial/batches/media/2026-09-09/.
 - [Sources and inspection](editorial/research/2026-09-09-three-posts.md). Awaiting approval; no new publishing.
+
+September 9 item 3 now uses the São Benedito CCTV preview (`editorial/batches/media/2026-09-09/sao-benedito-cctv-preview.mp4`), replacing the PF/STF proposal at the user’s request.
