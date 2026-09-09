@@ -33,7 +33,9 @@ Morning research starts at 06:30 Brasília, aiming for a batch around 07:00. The
 | [editorial/research/2026-09-08-ferrazopolis-robbery.md](editorial/research/2026-09-08-ferrazopolis-robbery.md) | New robbery reel candidate, source, inspection limits and proposed caption. |
 | [editorial/research/2026-09-08-quebra-vidro.md](editorial/research/2026-09-08-quebra-vidro.md) | Stronger dashcam theft candidate, verified date and corrected caption format. |
 | [editorial/research/2026-09-08-tucurui-br422-robbery.md](editorial/research/2026-09-08-tucurui-br422-robbery.md) | Same-day Tucuruí CCTV robbery candidate, source checks and inspection notes. |
+| [editorial/research/2026-09-08-vorcaro-opinion-thread.md](editorial/research/2026-09-08-vorcaro-opinion-thread.md) | Fact-checked eight-post Vorcaro opinion thread, AI-video disclosure and scheduling record. |
 | [clips/2026-09-08-tucurui-br422-watermark-preview.mp4](clips/2026-09-08-tucurui-br422-watermark-preview.mp4) | 33-second centered-watermark preview, awaiting review. |
+| [clips/2026-09-09-vorcaro-opinion-ai-watermarked.mp4](clips/2026-09-09-vorcaro-opinion-ai-watermarked.mp4) | User-provided AI illustration with centered PB + @PulsoBrasil watermark at 50% opacity. |
 | [clips/2026-09-08-tucurui-br422-watermark-v2-preview.mp4](clips/2026-09-08-tucurui-br422-watermark-v2-preview.mp4) | Revised preview with more visible handle text, awaiting review. |
 | [clips/2026-08-28-quebra-vidro-preview.mp4](clips/2026-08-28-quebra-vidro-preview.mp4) | 5.8-second branded preview, awaiting review. |
 | [editorial/research/pending-leads.md](editorial/research/pending-leads.md) | Unverified leads awaiting footage/context checks. |
@@ -57,6 +59,7 @@ Morning research starts at 06:30 Brasília, aiming for a batch around 07:00. The
 | [media/news-images/2026-09-08-fachin-stf-archive.jpg](media/news-images/2026-09-08-fachin-stf-archive.jpg) | Credited archive photo attached to the September 8 Fachin news post. |
 | [media/README.md](media/README.md) | Media naming and stable URL rules. |
 | [media/source-reports/2026-04-09-avenida-brasil-truck-robbery.mp4](media/source-reports/2026-04-09-avenida-brasil-truck-robbery.mp4) | Full downloaded news package from the workflow test. |
+| [media/source-reports/2026-09-08-vorcaro-opinion-ai-source.mp4](media/source-reports/2026-09-08-vorcaro-opinion-ai-source.mp4) | Preserved user-supplied MiniMax/Hailuo AI source for the Vorcaro opinion thread. |
 | [clips/README.md](clips/README.md) | Prepared clip provenance and compatibility explanation. |
 | [clips/tiroteio-cachambi-2026-09-04.mp4](clips/tiroteio-cachambi-2026-09-04.mp4) | Published 26-second incident clip; URL retained. |
 
