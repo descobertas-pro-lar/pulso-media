@@ -46,4 +46,8 @@ Character counts: 243, 267, 263, 243, 250, 252, 261 and 273.
 - Organization: My organization (`6a9f3afef4d804a5e1ebf45e`)
 - Channel: PulsoBrasil (`6a9f3b37cd8b9c702c26f164`)
 - Requested time: `2026-09-09T09:00:00-03:00`
-- Buffer post ID/status: pending live scheduling verification
+- Buffer post ID: `6aa0c622493bbf8c2828346d`
+- Verified status: `scheduled`; custom automatic scheduling; error `null`
+- Verified due time: `2026-09-09T12:00:00.000Z`, equivalent to 09:00 Brasília (`-03:00`)
+- Verified native asset: one MP4 on the opening post, 5,167ms, sourced from the stable GitHub URL for the prepared clip
+- Verified thread metadata: eight items; exact text above; `isAiGenerated: true`
