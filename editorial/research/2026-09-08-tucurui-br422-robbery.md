@@ -19,6 +19,10 @@ Selected as the strongest fresh crime-video candidate after comparing same-day C
 - First preview used 20% opacity for both PB and @PulsoBrasil. The user asked for slightly stronger text. The revised preview is `clips/2026-09-08-tucurui-br422-watermark-v2-preview.mp4`: PB remains at 20%; handle is approximately 32%. No red circle is needed because the action is clear. Source branding, timestamp, and frame dimensions remain visible.
 - Status: ready for user review; not approved, scheduled, or published.
 
+## Publication
+
+The user approved the v2 preview after increasing the handle opacity and instructed “post it.” Published through Buffer at 22:08 Brasília on September 8. Buffer post `6aa0b1818630939526ffda32` was verified `sent`, with no error and a native 33-second video asset. X: https://x.com/PulsoBrasil/status/2097492296732180596
+
 ## Proposed caption
 
 ```text
