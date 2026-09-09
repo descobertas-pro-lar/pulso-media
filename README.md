@@ -68,3 +68,8 @@ Morning research starts at 06:30 Brasília, aiming for a batch around 07:00. The
 Use descriptive lowercase kebab-case names. Weekly plans: `editorial/calendar/YYYY-MM-DD-to-YYYY-MM-DD.md`; batches: `editorial/batches/YYYY-MM-DD.md`; publication logs: `editorial/published/YYYY-MM.md`. Keep rejected brand work in archive/. Dates on media must have a documented meaning.
 
 The former outputs/ directory has been split by purpose. Existing published clip URLs are retained. Add new decisions and results to the appropriate document, update this guide, and commit/push changes. Always verify live X/Buffer state before mutations; never commit credentials.
+
+## September 9 review batch
+
+- [Three-post batch](editorial/batches/2026-09-09.md), with actual previews in editorial/batches/media/2026-09-09/.
+- [Sources and inspection](editorial/research/2026-09-09-three-posts.md). Awaiting approval; no new publishing.
