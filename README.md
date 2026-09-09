@@ -34,6 +34,7 @@ Morning research starts at 06:30 Brasília, aiming for a batch around 07:00. The
 | [editorial/research/2026-09-08-quebra-vidro.md](editorial/research/2026-09-08-quebra-vidro.md) | Stronger dashcam theft candidate, verified date and corrected caption format. |
 | [editorial/research/2026-09-08-tucurui-br422-robbery.md](editorial/research/2026-09-08-tucurui-br422-robbery.md) | Same-day Tucuruí CCTV robbery candidate, source checks and inspection notes. |
 | [clips/2026-09-08-tucurui-br422-watermark-preview.mp4](clips/2026-09-08-tucurui-br422-watermark-preview.mp4) | 33-second centered-watermark preview, awaiting review. |
+| [clips/2026-09-08-tucurui-br422-watermark-v2-preview.mp4](clips/2026-09-08-tucurui-br422-watermark-v2-preview.mp4) | Revised preview with more visible handle text, awaiting review. |
 | [clips/2026-08-28-quebra-vidro-preview.mp4](clips/2026-08-28-quebra-vidro-preview.mp4) | 5.8-second branded preview, awaiting review. |
 | [editorial/research/pending-leads.md](editorial/research/pending-leads.md) | Unverified leads awaiting footage/context checks. |
 | [editorial/published/2026-09.md](editorial/published/2026-09.md) | September published captions, sources, post IDs and historical outcomes. |

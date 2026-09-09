@@ -7,7 +7,7 @@ The user requests all future Pulso videos use a low-opacity watermark in the mid
 - Use the PB lettermark from `assets/brand/pb-avatar.png`, plus the exact handle `@PulsoBrasil`.
 - Place logo and handle together as one compact, horizontally arranged group, centered horizontally and vertically over the actual footage.
 - Use a transparent watermark background; no solid rectangular logo background or opaque backing panel.
-- Low opacity applies to both logo and handle. Start at 20% opacity as an implementation default, adjusting slightly for footage contrast while keeping it subtle. The user requested low opacity, not a specific percentage.
+- Keep the PB mark at roughly 20% opacity and the handle slightly stronger, starting at roughly 32%. Adjust modestly for footage contrast while keeping the group subtle. The user explicitly requested higher opacity for the text on September 8, 2026.
 - Start with the whole group around 25% of the frame width; keep the PB mark and handle legible and balanced. This size is an implementation default, not a fixed user requirement.
 - Keep the original frame dimensions and source timestamps/credits. Do not append a top/bottom bar or side border.
 - Inspect the actual rendered clip to ensure the watermark remains subtle and does not obscure key action, evidence or existing credits. Include the watermark in all future approval previews.

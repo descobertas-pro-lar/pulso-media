@@ -16,7 +16,7 @@ Selected as the strongest fresh crime-video candidate after comparing same-day C
 - Visually inspected contact sheets covering the full video and the action at two-second intervals.
 - Action begins near 00:36, the motorcycle arrives around 00:38, the passenger approaches the victim around 00:40, the robbery continues for roughly 20 seconds, and the two leave around 01:08.
 - Preview: `clips/2026-09-08-tucurui-br422-watermark-preview.mp4`, source 00:36–01:09, 33 seconds, H.264/AAC, 1280x720.
-- Applied the current centered PB + @PulsoBrasil watermark at 20% opacity. No red circle is needed because the action is clear. Source branding, timestamp, and frame dimensions remain visible.
+- First preview used 20% opacity for both PB and @PulsoBrasil. The user asked for slightly stronger text. The revised preview is `clips/2026-09-08-tucurui-br422-watermark-v2-preview.mp4`: PB remains at 20%; handle is approximately 32%. No red circle is needed because the action is clear. Source branding, timestamp, and frame dimensions remain visible.
 - Status: ready for user review; not approved, scheduled, or published.
 
 ## Proposed caption
