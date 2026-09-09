@@ -75,3 +75,7 @@ The former outputs/ directory has been split by purpose. Existing published clip
 - [Sources and inspection](editorial/research/2026-09-09-three-posts.md). Awaiting approval; no new publishing.
 
 September 9 item 3 now uses the São Benedito CCTV preview (`editorial/batches/media/2026-09-09/sao-benedito-cctv-preview.mp4`), replacing the PF/STF proposal at the user’s request.
+
+## Reusable skills
+
+- [Pulso Viral Scout](skills/pulso-viral-scout/SKILL.md): scan X for promising Brazilian stories, inspect footage, compare traction and produce sourced Portuguese recommendations. The repository copy includes Codex UI metadata in `skills/pulso-viral-scout/agents/openai.yaml`. Install the `pulso-viral-scout` folder in your personal Codex skills directory to use `$pulso-viral-scout`. Scouting does not authorize publication.

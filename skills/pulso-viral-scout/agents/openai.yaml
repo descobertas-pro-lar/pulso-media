@@ -1,0 +1,4 @@
+interface:
+  display_name: "Pulso Viral Scout"
+  short_description: "Find and rank promising Brazilian stories on X"
+  default_prompt: "Use $pulso-viral-scout to scan X for the three strongest content opportunities for Pulso Brasil today, with inspected media, traction evidence and Portuguese captions."
