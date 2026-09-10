@@ -79,3 +79,9 @@ September 9 item 3 now uses the São Benedito CCTV preview (`editorial/batches/m
 ## Reusable skills
 
 - [Pulso Viral Scout](skills/pulso-viral-scout/SKILL.md): scan X for promising Brazilian stories, inspect footage, compare traction and produce sourced Portuguese recommendations. The repository copy includes Codex UI metadata in `skills/pulso-viral-scout/agents/openai.yaml`. Install the `pulso-viral-scout` folder in your personal Codex skills directory to use `$pulso-viral-scout`. Scouting does not authorize publication.
+
+## September 9 direction
+
+Scam content is paused at the user’s request due to reported weak performance. Prioritize actual incident footage; the former scam allocation is superseded. September 10 has a three-video review batch; no scheduling approval yet.
+
+- [September 10 batch](editorial/batches/2026-09-10.md) and [source/inspection record](editorial/research/2026-09-10-viral-scout.md). Videos: [Flamengo store](clips/2026-09-10-flamengo.mp4), [Curicica](clips/2026-09-10-curicica.mp4), [Santana pharmacy](clips/2026-09-10-farmacia.mp4).

@@ -1,6 +1,6 @@
 # Pulso Brasil — strategy and operating context
 
-Last updated: September 8, 2026. This is the central handoff document for future sessions. Recheck live account state before taking actions; this file records strategy and historical verification, not current credentials or blanket publishing authorization.
+Last updated: September 9, 2026. This is the central handoff document for future sessions. Recheck live account state before taking actions; this file records strategy and historical verification, not current credentials or blanket publishing authorization.
 
 ## Account and positioning
 
@@ -78,3 +78,7 @@ Include 3–5 suggested replies to recent relevant posts by established reporter
 ## Caption simplification — user correction, September 8
 
 For CCTV posts, keep the visible incident, location and relevant incident date in the opening. Put source and publication date only on a separate line: `Fonte: {outlet}, {DD/MM/YYYY}`. Omit “publicado em” and redundant “segundo a {outlet}” in the opening. This does not remove necessary attribution of disputed allegations or unverified outcomes; prefer captions restricted to visible, verified facts.
+
+## Active override — September 9, 2026
+
+User instruction: stop scam content because it is not performing well. Pause scam/fraud-warning posts and the former 30% scam allocation; no replacement percentage has been established. Prioritize actual incident videos. September 10 batch contains three videos at 08:00, 12:30 and 19:30. This overrides earlier scam-mix instructions in this document and weekly plans. Performance rationale is user-reported, not a new analytics finding. Publishing still requires approval of final captions/assets/times.

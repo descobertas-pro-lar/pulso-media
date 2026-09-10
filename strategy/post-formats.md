@@ -127,3 +127,7 @@ Native text, no banner needed. Example: “Qual detalhe fez você perceber que u
 ## What the morning approval package shows
 
 For each numbered post: **kind → proposed date/time (Brasília) → exact caption → actual attachment (if required) → source link/date/context notes → readiness/approval status**. Source notes are internal review material; the public caption follows its template above. Incomplete media/source checks must be marked clearly. Keep reply suggestions separate and never infer reply authorization from approval of main posts.
+
+## September 9 direction
+
+Scam content is paused at the user’s request due to reported weak performance. Prioritize actual incident footage; the former scam allocation is superseded. September 10 has a three-video review batch; no scheduling approval yet.
