@@ -9,7 +9,7 @@ Last updated: September 9, 2026. This is the central handoff document for future
 - User prefers footage, concrete incidents, short commentary, and related humor over formal, lengthy news explainers.
 - Video selection priority (explicit user direction, September 7): find footage of the crime actually happening, especially CCTV/security cameras, dashcams, or eyewitness recordings. Presenter-led TV reports and news recaps are not the desired video format. Newsrooms can supply verification or publish the original footage; select the incident footage itself.
 - Brand promise: “O Brasil acontece. A gente contextualiza.”
-- Voice: direct, informal Brazilian Portuguese; informed, skeptical, concise. Avoid manufactured outrage and unsupported claims.
+- Voice: direct, informal Brazilian Portuguese; informed, skeptical, concise. For original politics and culture commentary, follow [tone.md](tone.md): lead with an unexpected thesis, expose the hidden premise and prefer sharp argument to generic outrage. Avoid manufactured outrage and unsupported claims.
 - Working mix: 40% crime/public safety, 30% scams/fraud/consumer traps, 20% politics connected to security/spending/services, 10% related original humor. These are experimental proportions, not proven audience preferences.
 - Repeatable formats: “Câmera flagrou”, “Golpe da vez”, “E depois?”, “Prometeu / entregou”, and short original commentary.
 - The user explicitly liked the banner. Preserve its bold condensed lettering, off-white/navy palette, green/yellow accents and editorial character. Do not reopen the rejected criticism of the banner as if the user accepted it.
@@ -60,6 +60,7 @@ Use [Post formats](post-formats.md) as the canonical guide to titles/openings, b
 
 ## Related documents
 
+- [Tone, arguments and editorial positions](tone.md)
 - [CCTV caption template](cctv-post-template.md)
 - [Scam post template](scam-post-template.md)
 - [Proposed 10k experiment](growth-experiment-10k.md)

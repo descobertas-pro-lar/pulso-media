@@ -6,9 +6,10 @@ Canonical repository for the Pulso Brasil social media operation, organized **on
 
 1. [AGENTS.md](AGENTS.md) — task instructions and repo rules (read before any work).
 2. [social/x/strategy/editorial-strategy.md](social/x/strategy/editorial-strategy.md) — current positioning, goals, posting plan, sourcing rules.
-3. [social/x/strategy/post-formats.md](social/x/strategy/post-formats.md) — exact caption layouts, media rules, source placement.
-4. [shared/operations/buffer-publishing.md](shared/operations/buffer-publishing.md) — how publishing works (Buffer, approvals, native video).
-5. [social/x/editorial/published/](social/x/editorial/published/) — what has already been published (dedupe against this).
+3. [social/x/strategy/tone.md](social/x/strategy/tone.md) — approved voice, argument style, positions and tests for original commentary.
+4. [social/x/strategy/post-formats.md](social/x/strategy/post-formats.md) — exact caption layouts, media rules, source placement.
+5. [shared/operations/buffer-publishing.md](shared/operations/buffer-publishing.md) — how publishing works (Buffer, approvals, native video).
+6. [social/x/editorial/published/](social/x/editorial/published/) — what has already been published (dedupe against this).
 
 Day-to-day state (batches, research, leads) lives under `social/x/editorial/` — check the newest dated files there, not this README.
 
@@ -18,7 +19,7 @@ Day-to-day state (batches, research, leads) lives under `social/x/editorial/` �
 |---|---|
 | [ideas/](ideas/) | Ideias e textos guardados para desenvolvimento editorial; salvar uma ideia não autoriza publicação. |
 | [social/x/](social/x/) | X/Twitter — the active channel. |
-| ├─ [strategy/](social/x/strategy/) | Positioning, posting plan, caption templates (CCTV, scam, formats, growth proposal). |
+| ├─ [strategy/](social/x/strategy/) | Positioning, approved tone and argument style, posting plan, caption templates and growth proposal. |
 | ├─ [editorial/](social/x/editorial/) | Working state: calendar/, research/, batches/ (+ media previews), scripts/, published/. |
 | └─ [clips/](social/x/clips/) | Prepared/published videos. Public raw URLs; never overwrite/move/rename files a Buffer post may still fetch. |
 | [social/instagram/](social/instagram/) | Reserved for future expansion (stub with launch checklist). |
