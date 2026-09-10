@@ -85,3 +85,5 @@ September 9 item 3 now uses the São Benedito CCTV preview (`editorial/batches/m
 Scam content is paused at the user’s request due to reported weak performance. Prioritize actual incident footage; the former scam allocation is superseded. September 10 has a three-video review batch; no scheduling approval yet.
 
 - [September 10 batch](editorial/batches/2026-09-10.md) and [source/inspection record](editorial/research/2026-09-10-viral-scout.md). Videos: [Flamengo store](clips/2026-09-10-flamengo.mp4), [Curicica](clips/2026-09-10-curicica.mp4), [Santana pharmacy](clips/2026-09-10-farmacia.mp4).
+
+September 10 batch: all three videos approved and scheduled via Buffer; IDs and verification recorded in the batch and September publication log.
