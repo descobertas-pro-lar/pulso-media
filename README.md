@@ -16,6 +16,7 @@ Day-to-day state (batches, research, leads) lives under `social/x/editorial/` �
 
 | Folder | Purpose |
 |---|---|
+| [ideas/](ideas/) | Ideias e textos guardados para desenvolvimento editorial; salvar uma ideia não autoriza publicação. |
 | [social/x/](social/x/) | X/Twitter — the active channel. |
 | ├─ [strategy/](social/x/strategy/) | Positioning, posting plan, caption templates (CCTV, scam, formats, growth proposal). |
 | ├─ [editorial/](social/x/editorial/) | Working state: calendar/, research/, batches/ (+ media previews), scripts/, published/. |
