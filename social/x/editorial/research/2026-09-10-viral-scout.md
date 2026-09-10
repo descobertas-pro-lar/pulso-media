@@ -47,3 +47,36 @@ Editorial score excludes traction because a defensible comparable-age baseline i
 All three captions are below the 280-character X limit including emoji weighting. H.264 MP4, yuv420p, faststart, no audio. Final contact sheets inspected for watermark, source credits and incident sequence. Proposed September 10 Brasília slots: 08:00 / 12:30 / 19:30. User approval is pending. Recheck live channel, queue, slot availability and hosted asset availability when scheduling is authorized.
 
 User instructed scam content to stop due to weak performance. This is recorded as user-reported feedback, not independently established analytics. Strategy and existing morning automation updated; no new automation or publishing permission created.
+
+
+## 10/09/2026, 00:06–00:10 Brasília — politics/culture writing scout
+
+User requested politics and culture commentary, overriding the default CCTV focus for this run. Read canonical instructions, strategy, post formats, weekly calendar, publication log, current scout and betting-opinion records. Existing bets and Vorcaro opinion pieces made a distinct work/time angle preferable. Initial network fetch failed; local HEAD matched the cached origin/main only. A successful network-enabled fetch during sync revealed the new platform-based layout. Rebased onto that revision, preserved the new stable README, and stored this run under social/x/editorial/research/. Unrelated untracked files preserved.
+
+### Coverage and observations
+
+Live authenticated X browser; no X search connector discovered. Queried since:2026-09-09 (approximately previous 24 hours at capture, date boundary subject to X search semantics). Sampled Recent and Top: broad politics/culture; STF/film/Rouanet/6x1; film/6x1; finally 6x1. Read 21 distinct search-result posts (7 broad/noisy, 5 institutional politics, 4 film, 5 workweek), then opened the exact Band finalist. This is a bounded sample, not a comprehensive scan. Recent broad query included non-Brazilian noise. No 72-hour expansion. No account baseline collected. No claims of acceleration or predicted virality.
+
+Selected topic: six-day workweek and the contradiction between rhetorical support for family and time available for family life. Fresh hook is the Band debate post; the legislative non-vote occurred September 2, not September 9. No claim of a new legislative decision tonight.
+
+- Band Jornalismo: https://x.com/BandJornalismo/status/2097872099679310248 . Exact post opened; timestamp shown 23:17 September 9, consistent with Brasília and displayed age ~51 minutes. At approximately 00:09 September 10: 659 views, 3 likes, 2 reposts, 0 replies, 0 bookmarks. Quote count unavailable. Text says Marina Silva and Simone Tebet discuss 6x1 in the debate (source misspells Simone). No replies visible. Article-link card, not native incident footage. The debate video was not watched; no exact quotes or account of candidate positions is used. No third-party media is attached or repurposed.
+- Rick Azevedo: https://x.com/rickazzevedo/status/2097824064240828841 . Search-result text inspected at ~00:08: age 4 hours, 2,658 views, 305 likes, 61 reposts, 2 replies, 1 bookmark. Campaign claim, not independent proof that reduced schedules are increasingly adopted. Native video not inspected; claim excluded from essay. Second campaign post https://x.com/rickazzevedo/status/2097792735927234606 : age 6 hours, 2,132 views, 216 likes, 40 reposts, 2 replies. Both same account, not corroborating sources.
+- Opposing argument appeared at https://x.com/rosamwovbeto/status/2097789062903955887 : age 6 hours, 241 views, 4 likes, 2 reposts; predicts automation-driven job loss. Not evidence of actual job loss. Video not inspected; excluded.
+
+### Alternatives and selection
+
+1. 6x1: chosen for original editorial argument and direct fresh newsroom hook, not strongest totals. Fact verification: Band post directly read; legislative context corroborated by Agência Brasil and Agência Senado. Commentary requires no incident-media asset. Heuristic: traction N/A (no comparable baseline); audience fit 4/4 under requested politics/culture scope (25%); visual clarity N/A (text essay); freshness/value 3/4 (15%, fresh debate but older legislative event); reason to share 4/4 (10%, recognizable tension between family rhetoric and available time). Provisional 92.5/100 on only 50% evidence coverage. This is editorial prioritization, not viral probability or evidence of breakout momentum.
+2. Dark Horse financing: https://x.com/oeixooficial/status/2097763371873357921 . Search-result text, age 8 hours, 53,992 views, 2,382 likes, 489 reposts, 44 replies, 65 bookmarks. Stronger observed totals, but no baseline. Reposted TV claims about an operation; footage not inspected and no claim of future operation accepted as fact. Metrópoles source lead https://x.com/Metropoles/status/2097781424908574846 : age 6 hours, 6,089 views, 151 likes, 20 reposts, 16 replies. Lost on overlap with existing Vorcaro coverage and verification work remaining. Not scored/ready.
+3. OAB/STF: https://x.com/FernandoHoliday/status/2097875681635918101 . Search-result text at ~00:07, age 36 minutes, 6,925 views, 1,203 likes, 154 reposts, 16 replies, 12 bookmarks. Political-account claims about OAB actions; not independently verified in this run. https://x.com/republiqueBRA/status/2097866643456020662 : age 1 hour, 3,666 views, 378 likes, 30 reposts, 10 replies. Lost on existing STF coverage and unresolved original document. Not scored/ready. No filler backups promoted.
+
+### Factual sources actually opened
+
+- https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/senado-oposicao-obstrui-e-fim-da-escala-6x1-nao-vai-plenario — September 2, 20:45. Government base did not risk plenary vote without sufficient support; expected vote after first electoral round. The essay attributes this dated expectation rather than claiming guaranteed future action. Opposition-obstruction claims are attributed to Randolfe in source, not independently established by us; essay omits allegation.
+- https://www12.senado.leg.br/noticias/materias/2026/09/02/randolfe-votacao-da-pec-do-fim-da-escala-6x1-acontecera-ate-outubro — September 2, 20:52. Institutional corroboration of discussion and intended timetable.
+- Band exact post above supplies the September 9 debate hook. No verbatim candidate quote used.
+
+### Deliverable and limits
+
+[Original essay and independent short X version](2026-09-10-6x1-opinion.md). Long-form writing draft, not an automatically split thread or a news-caption package. Original opinion predominates; dated reporting is cited. No claim that every family has identical routines. The text acknowledges transition and small-business costs without inventing economic estimates. Text-only standalone commentary format applies. No media rights required for original prose; no third-party media reused.
+
+Repository deduplication completed; live X/Buffer full publication/queue deduplication pending. No posts, replies, likes, scheduling, or other social mutations. No publication authorization requested or inferred. Save the work for review.
