@@ -4,7 +4,7 @@
 
 - User supplied and approved an eight-post opinion thread for scheduling at 09:00 Brasília time on September 9, 2026.
 - The attached video is a 5.17-second stylized 3D AI-generated scene showing a suited businessman, helicopter, sports car and falling banknotes. It visibly carries MiniMax/Hailuo AI branding and embedded AI-generation metadata.
-- The first post uses the prepared native MP4 at `clips/2026-09-09-vorcaro-opinion-ai-watermarked.mp4`. The preserved user-supplied source is `media/source-reports/2026-09-08-vorcaro-opinion-ai-source.mp4`.
+- The first post uses the prepared native MP4 at `clips/2026-09-09-vorcaro-opinion-ai-watermarked.mp4`. The preserved user-supplied source is `shared/media/source-reports/2026-09-08-vorcaro-opinion-ai-source.mp4`.
 - The final render keeps the original 2944×1248 frame and audio, and adds the centered PB + `@PulsoBrasil` watermark. Both elements use 50% opacity, following the current brand specification.
 - Buffer/X AI disclosure: `metadata.twitter.isAiGenerated = true`.
 - The supplied video is an illustration, not documentary footage of Daniel Vorcaro or the Banco Master investigation.

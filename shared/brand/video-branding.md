@@ -4,7 +4,7 @@ The user requests all future Pulso videos use a centered, semi-transparent water
 
 ## Specification
 
-- Use the PB lettermark from `assets/brand/pb-avatar.png`, plus the exact handle `@PulsoBrasil`.
+- Use the PB lettermark from `shared/brand/pb-avatar.png`, plus the exact handle `@PulsoBrasil`.
 - Place logo and handle together as one compact, horizontally arranged group, centered horizontally and vertically over the actual footage.
 - Use a transparent watermark background; no solid rectangular logo background or opaque backing panel.
 - Set both the PB mark and the `@PulsoBrasil` handle to 50% opacity. This is the current default for all future videos, following the user's September 8, 2026 revision. Adjust only when necessary to preserve important evidence or source credits, and show any adjustment in the approval preview.

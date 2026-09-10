@@ -42,7 +42,7 @@ Use [Post formats](post-formats.md) as the canonical guide to titles/openings, b
 - Keep 10–15 evergreen drafts in reserve. Evergreen means independent of breaking news, not old incidents passed off as new.
 - Spend 10–15 minutes engaging after posts; roughly five useful outside replies daily is a flexible starting point.
 - Review typical impressions, reposts, meaningful replies and follower changes by format weekly. Do not infer growth from views alone.
-- Current week is September 7–13, 2026, NOT September 14–20. See [weekly queue](../editorial/calendar/2026-09-07-to-2026-09-13.md).
+- Current week is September 7–13, 2026, NOT September 14–20. See [weekly queue](../social/x/editorial/calendar/2026-09-07-to-2026-09-13.md).
 
 ## Sourcing and editorial checks
 
@@ -51,7 +51,7 @@ Use [Post formats](post-formats.md) as the canonical guide to titles/openings, b
 - Treat forwarded/social clips as leads. Verify original source, incident date, location and context; distinguish publication date from event date.
 - Distinguish personally inspected footage from a webpage merely reporting that footage exists. Attribute allegations and police accounts.
 - Before recommending a crime video as ready, visually inspect it and record what incident is actually visible and the relevant timestamps. If a news package contains useful CCTV, identify that segment and preserve enough lead-in/aftermath to avoid misleading edits. If footage has not been inspected, label it an unverified lead. Prioritize direct footage with a short Portuguese caption, source credit, verified location and date; attach the actual video for approved publication.
-- Video branding (latest user direction, September 8): center a watermark containing the PB logo plus @PulsoBrasil over the footage. This supersedes the previous top/bottom bars. Use 50% opacity for both the logo and handle by default; preserve frame dimensions, source credits and timestamps. Follow assets/brand/video-branding.md and show the final watermark in approval previews. Preserve published files and URLs.
+- Video branding (latest user direction, September 8): center a watermark containing the PB logo plus @PulsoBrasil over the footage. This supersedes the previous top/bottom bars. Use 50% opacity for both the logo and handle by default; preserve frame dimensions, source credits and timestamps. Follow shared/brand/video-branding.md and show the final watermark in approval previews. Preserve published files and URLs.
 - Visual annotation (user clarification, September 8): add a red circle only when the action is not clear enough to spot, for example when it happens far in the background or amid visual clutter. If the action is already obvious, leave the video unannotated. Position and time the circle to guide viewers accurately; move it as needed when the action moves. Keep faces, important evidence, timestamps and source credits visible. Review the rendered video, retain the unannotated original, and include the annotated version in the approval preview. A circle directs attention; it must not imply an unsupported identification.
 - User prefers native video attachments for crime footage. Verify source/context and record reuse permission if known; a public newsroom page alone does not establish reuse permission.
 - Protect victims; keep humor away from suffering. Avoid graphic injury as entertainment, celebrating violence, and unsupported identifications or accusations.
@@ -63,11 +63,11 @@ Use [Post formats](post-formats.md) as the canonical guide to titles/openings, b
 - [CCTV caption template](cctv-post-template.md)
 - [Scam post template](scam-post-template.md)
 - [Proposed 10k experiment](growth-experiment-10k.md)
-- [Buffer workflow](../operations/buffer-publishing.md)
-- [Morning automation](../operations/morning-automation.md)
-- [Publication log](../editorial/published/2026-09.md)
-- [Pending leads](../editorial/research/pending-leads.md)
-- [Brand guide](../assets/brand/README.md)
+- [Buffer workflow](../shared/operations/buffer-publishing.md)
+- [Morning automation](../shared/operations/morning-automation.md)
+- [Publication log](../social/x/editorial/published/2026-09.md)
+- [Pending leads](../social/x/editorial/research/pending-leads.md)
+- [Brand guide](../shared/brand/README.md)
 
 ## Daily package confirmed September 8
 

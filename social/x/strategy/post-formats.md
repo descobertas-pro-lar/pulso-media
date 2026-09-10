@@ -90,7 +90,7 @@ Preserve the user's template:
 - Show the mechanism without exposing personal data or usable malicious links/payment credentials.
 - Missing suitable media means the draft is incomplete, even if its caption is finished.
 
-Detailed rules: [scam template](scam-post-template.md). Script example: [delivery scam simulation](../editorial/scripts/2026-09-08-delivery-scam-ai-video.md).
+Detailed rules: [scam template](scam-post-template.md). Script example: [delivery scam simulation](../social/x/editorial/scripts/2026-09-08-delivery-scam-ai-video.md).
 
 ## 4. Follow-up / “E depois?”
 
@@ -121,7 +121,7 @@ Native text, no banner needed. Example: “Qual detalhe fez você perceber que u
 - Keep captions within the live account limit (currently a 280-character working constraint); check the complete caption including source/credit. Cut repetition before removing essential context. Do not silently split into a thread.
 - Full source URL, publication date, incident date, media origin, reuse status and inspection notes belong in the repository record even when not all fit in the public caption.
 - Actual media must be present in the approval preview. Approval is for the final caption, attachment and proposed time. Edits alone do not authorize scheduling or publishing.
-- Video branding: centered, semi-transparent PB logo + @PulsoBrasil watermark over the footage, both at 50% opacity by default, following the [canonical specification](../assets/brand/video-branding.md). The latest user direction supersedes previous top/bottom bars. Preserve source marks, timestamps, frame dimensions and already published files/URLs.
+- Video branding: centered, semi-transparent PB logo + @PulsoBrasil watermark over the footage, both at 50% opacity by default, following the [canonical specification](../shared/brand/video-branding.md). The latest user direction supersedes previous top/bottom bars. Preserve source marks, timestamps, frame dimensions and already published files/URLs.
 - This guide supersedes generic earlier “all text posts are text-only” wording: news requires an image; scams require meaningful video/image; standalone commentary may be text-only.
 
 ## What the morning approval package shows

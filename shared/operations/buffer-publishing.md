@@ -17,7 +17,7 @@ Verified by successful get_account, list_channels and get_channel calls on Septe
 - Channel was connected, unlocked; queue was not paused.
 - Channel descriptor: X Free Profile; subscriptionType: None.
 - Buffer account reported limits including scheduledPosts: 10. Verify exact current allowance and usage before loading a week of posts; do not assume space for all 21 slots.
-- At the initial 19:35 verification only read access had been tested. Publishing subsequently succeeded for both a link post and a native video; see the publication log in editorial/published/2026-09.md (repository-relative).
+- At the initial 19:35 verification only read access had been tested. Publishing subsequently succeeded for both a link post and a native video; see the publication log in social/x/editorial/published/2026-09.md (repository-relative).
 - The initial verification did not change the channel schedule. Later draft/publication activity is recorded in the publication log.
 
 Default queue schedule observed (not our editorial plan):
@@ -59,7 +59,7 @@ For an explicitly requested editorial time, use customScheduled and an ISO dueAt
 
 ## Native video attachment
 
-Use `assets: [{video: {url: directMp4Url}}]`. HLS (.m3u8) failed in the test; a direct MP4 worked. Text-only minimum requirements do not prohibit media. Verify the video asset before scheduling and sent status after publishing. See the [publication log](../editorial/published/2026-09.md) for post IDs and historical results.
+Use `assets: [{video: {url: directMp4Url}}]`. HLS (.m3u8) failed in the test; a direct MP4 worked. Text-only minimum requirements do not prohibit media. Verify the video asset before scheduling and sent status after publishing. See the [publication log](../social/x/editorial/published/2026-09.md) for post IDs and historical results.
 
 ## Text-only posts
 
@@ -71,4 +71,4 @@ User clarified September 8: news/politics posts always attach a relevant image, 
 
 ## Format selection
 
-Read [Post formats](../strategy/post-formats.md) before composing: it specifies opening, body, source/credit placement and attachment requirements for every kind. Earlier generic text-only language does not override the later news-image and scam-media rules.
+Read [Post formats](../social/x/strategy/post-formats.md) before composing: it specifies opening, body, source/credit placement and attachment requirements for every kind. Earlier generic text-only language does not override the later news-image and scam-media rules.
