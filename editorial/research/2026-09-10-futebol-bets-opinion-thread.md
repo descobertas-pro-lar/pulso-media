@@ -16,17 +16,17 @@
 ## Final thread for review
 
 ```text
-1/6 OPINIÃO IMPOPULAR: se você assiste futebol brasileiro hoje, não está vendo só futebol. Está vendo BET. A bola ainda está lá — mas, ao redor de cada lance, alguém está tentando te vender a próxima aposta. 🧵
+1/6 OPINIÃO IMPOPULAR: se você assiste futebol brasileiro, você ajuda a promover BET. Mesmo sem apostar. Sua audiência valoriza a camisa, o telão e a transmissão que vendem aposta. A parte incômoda é que a gente alimenta isso junto. 🧵
 
-2/6 Não: não são todos os clubes. O fato é mais forte que o exagero. Em 2025, o IBOPE contou 18 marcas de apostas nos uniformes da Série A. Em 2026, 12 dos 20 clubes começaram o campeonato com bet como patrocinadora máster.
+2/6 Não é figura de linguagem. Em 2025, o IBOPE contou 18 marcas de apostas nos uniformes da Série A. Em 2026, 12 dos 20 clubes começaram o campeonato com bet como patrocinadora máster. Quanto mais gente vê, mais caro vale esse espaço.
 
-3/6 “Mas clube precisa de dinheiro.” Precisa. Só que patrocínio de bet não compra só espaço na camisa: compra o símbolo, o ídolo, o estádio e a emoção do torcedor. Em jogo ao vivo, isso vale muito mais que um banner qualquer.
+3/6 “Mas clube precisa de dinheiro.” Precisa. Só que patrocínio de bet não compra só uma placa. Compra o escudo, o ídolo, o estádio e a paixão do torcedor. E transforma cada minuto da nossa atenção em argumento para vender mais aposta.
 
-4/6 O governo já obrigou alertas de risco e restringiu anúncios que colam aposta em conteúdo editorial ou vendem ganho como sucesso. Não foi por acaso. “Aposte com responsabilidade” não apaga uma parede inteira mandando apostar.
+4/6 Assistir não faz ninguém apostador. Mas audiência faz anúncio valer. Torcida lota estádio, dá alcance para transmissão, compra camisa e mantém o futebol atraente para quem quer vender um produto de risco. A engrenagem não gira só com quem perde dinheiro.
 
-5/6 E não: isso não prova que jogo é armado. Sem evidência, essa acusação só atrapalha o debate. O problema vem antes do apito: o futebol ensinou que todo lance, cartão e escanteio pode virar mercado.
+5/6 E não: isso não prova que jogo é armado. Sem evidência, essa acusação só serve de distração. O problema real é mais banal: normalizamos uma indústria de aposta dentro do lugar onde a gente vai para torcer, sofrer e se divertir.
 
-6/6 Quando camisa, telão, transmissão e jogador repetem “bet” o tempo todo, o futebol não some. Ele só vira coadjuvante da própria vitrine. Em que momento patrocínio deixou de financiar o jogo e passou a narrá-lo?
+6/6 A BET não tomou o futebol sozinha. Clube vendeu espaço, emissora vendeu intervalo, jogador vendeu imagem e nós entregamos audiência. Dá para continuar assistindo — mas não dá mais para fingir que estamos fora do negócio.
 ```
 
 ## Publication status
