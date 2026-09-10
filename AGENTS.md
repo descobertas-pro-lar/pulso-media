@@ -11,7 +11,7 @@ Canonical repository: https://github.com/descobertas-pro-lar/pulso-media. Use it
 
 Read README.md and social/x/strategy/editorial-strategy.md first. Also read social/x/strategy/post-formats.md, social/x/strategy/cctv-post-template.md, social/x/strategy/scam-post-template.md, shared/operations/buffer-publishing.md, shared/operations/morning-automation.md, the relevant social/x/editorial/calendar/ weekly plan, and social/x/editorial/published/ records before posting work. social/x/strategy/growth-experiment-10k.md is a proposal, not adopted policy.
 
-Save X research in social/x/editorial/research/, daily approvals in social/x/editorial/batches/YYYY-MM-DD.md, and publication results in social/x/editorial/published/YYYY-MM.md. Brand assets belong in shared/brand/; prepared videos in social/x/clips/; source reports in shared/media/source-reports/. Preserve public URLs of published media. Update README.md when adding files.
+Save X research in social/x/editorial/research/, daily approvals in social/x/editorial/batches/YYYY-MM-DD.md, and publication results in social/x/editorial/published/YYYY-MM.md. Brand assets belong in shared/brand/; prepared videos in social/x/clips/; source reports in shared/media/source-reports/. Preserve public URLs of published media. README.md is a stable repo map for new agents — do NOT log daily activity in it; dated editorial files carry the day-to-day state.
 
 When expanding to a new platform, copy the relevant strategy/format docs into that platform's folder, adapt formats to the platform (aspect ratios, caption limits, hashtag norms), and keep the same editorial discipline (inspection, approval before scheduling, publication log).
 
