@@ -5,7 +5,7 @@ Draft only; not approved or scheduled.
 ## 1/6 — opening video
 
 ```text
-OPINIÃO IMPOPULAR: se você assiste futebol brasileiro hoje, não está vendo só futebol. Está vendo um funil de vendas. A bola ainda está lá — mas, ao redor de cada lance, alguém está tentando te vender a próxima aposta. 🧵
+OPINIÃO IMPOPULAR: se você assiste futebol brasileiro hoje, não está vendo só futebol. Está vendo BET. A bola ainda está lá — mas, ao redor de cada lance, alguém está tentando te vender a próxima aposta. 🧵
 ```
 
 ![Opening video](../../clips/2026-09-10-futebol-bets-opiniao-ai.mp4)

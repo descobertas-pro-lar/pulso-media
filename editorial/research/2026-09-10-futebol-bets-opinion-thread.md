@@ -16,7 +16,7 @@
 ## Final thread for review
 
 ```text
-1/6 OPINIÃO IMPOPULAR: se você assiste futebol brasileiro hoje, não está vendo só futebol. Está vendo um funil de vendas. A bola ainda está lá — mas, ao redor de cada lance, alguém está tentando te vender a próxima aposta. 🧵
+1/6 OPINIÃO IMPOPULAR: se você assiste futebol brasileiro hoje, não está vendo só futebol. Está vendo BET. A bola ainda está lá — mas, ao redor de cada lance, alguém está tentando te vender a próxima aposta. 🧵
 
 2/6 Não: não são todos os clubes. O fato é mais forte que o exagero. Em 2025, o IBOPE contou 18 marcas de apostas nos uniformes da Série A. Em 2026, 12 dos 20 clubes começaram o campeonato com bet como patrocinadora máster.
 
