@@ -1,6 +1,6 @@
 # Pulso Brasil — football-betting opinion thread
 
-Draft only; not approved or scheduled.
+Approved and scheduled for September 10 at 09:00 Brasília through Buffer: `6aa2017bab33ce7e8c146b00`. All six posts, the first-post native video and AI disclosure were verified after scheduling.
 
 ## 1/6 — opening video
 

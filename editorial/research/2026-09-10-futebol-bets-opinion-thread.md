@@ -29,6 +29,6 @@
 6/6 A BET não tomou o futebol sozinha. Clube vendeu espaço, emissora vendeu intervalo, jogador vendeu imagem e nós entregamos audiência. Dá para continuar assistindo — mas não dá mais para fingir que estamos fora do negócio.
 ```
 
-## Publication status
+## Scheduled — September 10, 2026, 09:00 Brasília
 
-Draft only. No Buffer or X mutation. If approved, attach the MP4 only to post 1, set Twitter `isAiGenerated` to true, and schedule the complete six-post thread at a future Brasília slot.
+User explicitly instructed scheduling after approving the final revised argument. Buffer post `6aa2017bab33ce7e8c146b00` is scheduled automatic/customScheduled for `2026-09-10T12:00:00.000Z` (09:00 Brasília), with error `null`. The verified post has all six thread items, `metadata.twitter.isAiGenerated: true`, and one native H.264 video asset on post 1 at the stable GitHub URL. The first creation did not retain the attachment; an edit added the asset to the first thread item, and a subsequent `get_post` confirmed the 5,000 ms asset. No replies were sent.
